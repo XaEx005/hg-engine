@@ -27949,6 +27949,10 @@
       {
         "Level": 50,
         "Move": "MOVE_SOLAR_BEAM"
+      },
+      {
+        "Level": 60,
+        "Move": "MOVE_GRASSY_TERRAIN"
       }
     ],
     "MachineMoves": [
