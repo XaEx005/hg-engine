@@ -84,7 +84,7 @@ a Medium
 a Cameraman
 a Reporter
 an Idol
-a Champion
+an Ex Champion
 an Elite Four
 an Elite Four
 an Elite Four
@@ -127,3 +127,7 @@ a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
+a Champion
+an Elite Four
+an Elite Four
+an Elite Four
