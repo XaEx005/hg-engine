@@ -95,7 +95,8 @@ u16 sGoldenrodDepartment4F[] = {
 };
 
 u16 sGoldenrodDepartment5F[] = {
-    ITEM_ORAN_BARRY, 0xFFFF
+    ITEM_ORAN_BERRY, 
+    0xFFFF
 };
 
 u16 sGoldenrodHerbs[] = { 
@@ -132,7 +133,7 @@ u16 sIndigoPlateau[] = {
 };
 
 u16 sVermilionAndSafariMart[] = {
-    ITEM_ORAN_BARRY,
+    ITEM_ORAN_BERRY,
     0xFFFF
 };
 
