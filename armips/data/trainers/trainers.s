@@ -1750,6 +1750,7 @@ trainerdata 48, "Rob"
         abilityslot 0
         level 34
         pokemon SPECIES_HERACROSS
+        ballseal 0
     endparty
 
 trainerdata 49, "Albert"
