@@ -13,9 +13,12 @@
  *  this describes how to edit narcs.mk to introduce a custom subfolder to your project
  */
 
-#define NEW_NPC_START 7000
-#define NEW_NPC_GFX_START 1553 // exact number may depend--it is the number of the first overworld gfx that is not used in the overworld table
+#define NEW_BALL_START 7000
+#define NEW_NPC_START 7001
+#define NEW_BALL_GFX_START 1553 // exact number may depend--it is the number of the first overworld gfx that is not used in the overworld table
+#define NEW_NPC_GFX_START 1554
 #define NEW_NPC_ENTRY(num) {.tag = NEW_NPC_START + num, .gfx = NEW_NPC_GFX_START + num, .callback_params = 0}
+#define NEW_BALL_ENTRY(num) {.tag = NEW_BALL_START + num, .gfx = NEW_BALL_GFX_START + num, .callback_params = 0x0420}
 
 struct OVERWORLD_TAG gOWTagToFileNum[] = // skip down a bit to see the parts that are specifically for pokémon
 {
@@ -1677,8 +1680,8 @@ struct OVERWORLD_TAG gOWTagToFileNum[] = // skip down a bit to see the parts tha
     { .tag = 1796, .gfx =  297, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_TERAPAGOS
     { .tag = 1797, .gfx = 1547, .callback_params = OVERWORLD_SIZE_SMALL}, // SPECIES_PECHARUNT
 
-    NEW_NPC_ENTRY(0), // tmball
-    NEW_NPC_ENTRY(1), // kris
+    NEW_BALL_ENTRY(0), // tmball
+    NEW_NPC_ENTRY(0), // kris
 
     { 0xFFFF, 0, 0},
 };
