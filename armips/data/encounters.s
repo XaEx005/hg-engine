@@ -879,8 +879,8 @@ pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 
 // night encounter slots
-pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_ODDISH
+pokemon SPECIES_ODDISH
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_MAREEP
@@ -1472,7 +1472,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 8, 8, 10, 10, 9, 11, 9, 9, 11, 11, 14, 15
+walklevels 9, 9, 11, 11, 10, 12, 10, 10, 12, 12, 16, 15
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
@@ -1576,7 +1576,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 8, 8, 10, 10, 9, 11, 9, 9, 11, 11, 14, 15
+walklevels 9, 9, 11, 11, 10, 12, 10, 10, 12, 12, 16, 15
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
