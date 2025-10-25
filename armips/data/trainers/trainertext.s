@@ -2124,9 +2124,9 @@ _1334: // Trainer 404
     trainertextentry 404, TEXT_DEFEATED_IN_OVERWORLD, "The password to the boss’s room is\nSLOWPOKETAIL.\rBut it’s useless unless you have two\npasswords.\n"
 
 _1340: // Trainer 391
-    trainertextentry 391, TEXT_NOTICE_IN_OVERWORLD, "My Pokémon just got a haircut!\nI’ll show you how strong it is!\r"
-    trainertextentry 391, TEXT_DEFEATED_IN_BATTLE, "Aiyeeee!\n"
-    trainertextentry 391, TEXT_DEFEATED_IN_OVERWORLD, "Your Pokémon will like you more if you\ngive them haircuts.\n"
+    trainertextentry 391, TEXT_NOTICE_IN_OVERWORLD, "My Pokémon is not only cute!\nI’ll show you how strong it is!\r"
+    trainertextentry 391, TEXT_DEFEATED_IN_BATTLE, "Oooh!\n"
+    trainertextentry 391, TEXT_DEFEATED_IN_OVERWORLD, "Your Pokémon will like you more if you\ncuddle them.\n"
 
 _134C: // Trainer 392
     trainertextentry 392, TEXT_NOTICE_IN_OVERWORLD, "I think you have some rare Pokémon\nwith you. Let me see them!\r"

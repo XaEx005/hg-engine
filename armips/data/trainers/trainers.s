@@ -7127,9 +7127,9 @@ trainerdata 232, "Vincent"
         ballseal 0
     endparty
 
-trainerdata 233, "Eric"
+trainerdata 233, "Lisandra"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_SUPER_NERD
+    trainerclass TRAINERCLASS_LASS
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -7143,8 +7143,8 @@ trainerdata 233, "Eric"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
-        pokemon SPECIES_DUDUNSPARCE
+        level 19
+        pokemon SPECIES_CHANSEY
         ballseal 0
     endparty
 
@@ -13135,7 +13135,7 @@ trainerdata 390, "Ray"
 
 trainerdata 391, "Issac"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_POKE_MANIAC
+    trainerclass TRAINERCLASS_WAITER
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -13149,7 +13149,7 @@ trainerdata 391, "Issac"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 19
         pokemon SPECIES_LICKITUNG
         move MOVE_LICK
         move MOVE_SUPERSONIC
@@ -13173,23 +13173,23 @@ trainerdata 392, "Donald"
     party 392
         // mon 0
         ivs 0
-        abilityslot 32
+        abilityslot 0
         level 17
-        pokemon SPECIES_SLOWPOKE
+        pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 1
         ivs 0
-        abilityslot 32
-        level 17
-        pokemon SPECIES_SLOWPOKE
+        abilityslot 0
+        level 18
+        pokemon SPECIES_RHYHORN
         ballseal 0
     endparty
 
 trainerdata 393, "Teru"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_SUPER_NERD
-    nummons 3
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -13202,22 +13202,15 @@ trainerdata 393, "Teru"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 17
         pokemon SPECIES_MAGNEMITE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 15
-        pokemon SPECIES_VOLTORB
-        ballseal 0
-
-        // mon 2
-        ivs 0
-        abilityslot 32
-        level 17
-        pokemon SPECIES_PINECO
+        level 18
+        pokemon SPECIES_ELECTABUZZ
         ballseal 0
     endparty
 
