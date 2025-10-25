@@ -20139,10 +20139,6 @@
         "Move": "MOVE_ECHOED_VOICE"
       },
       {
-        "Level": 12,
-        "Move": "MOVE_LIFE_DEW"
-      },
-      {
         "Level": 16,
         "Move": "MOVE_SING"
       },
