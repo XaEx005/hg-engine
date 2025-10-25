@@ -38588,8 +38588,12 @@
         "Move": "MOVE_BRICK_BREAK"
       },
       {
-        "Level": 28,
+        "Level": 27,
         "Move": "MOVE_COUNTER"
+      },
+      {
+        "Level": 30,
+        "Move": "MOVE_ROCK_THROW"
       },
       {
         "Level": 33,

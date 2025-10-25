@@ -685,7 +685,7 @@ trainerdata 21, "Bugsy"
     endentry
 
     party 21
-        // mon 1
+        // mon 0
         ivs 80
         abilityslot 0
         level 18
@@ -697,14 +697,14 @@ trainerdata 21, "Bugsy"
         move MOVE_SCARY_FACE
         ballseal 0
 
-        // mon 0
+        // mon 1
         ivs 70
         abilityslot 0
         level 20
         pokemon SPECIES_HERACROSS
-        item ITEM_NONE
+        item ITEM_ORAN_BERRY
         move MOVE_LOW_KICK
-        move MOVE_SMACK_DOWN
+        move MOVE_ROCK_THROW
         move MOVE_U_TURN
         move MOVE_LEER
         ballseal 0
@@ -2358,7 +2358,7 @@ trainerdata 69, "Josh"
     party 69
         // mon 0
         ivs 0
-        abilityslot 0
+        abilityslot 32
         level 18
         pokemon SPECIES_YANMA
         ballseal 0
