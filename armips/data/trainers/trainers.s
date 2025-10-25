@@ -702,7 +702,7 @@ trainerdata 21, "Bugsy"
         abilityslot 0
         level 20
         pokemon SPECIES_HERACROSS
-        item ITEM_SITRUS_BERRY
+        item ITEM_NONE
         move MOVE_LOW_KICK
         move MOVE_SMACK_DOWN
         move MOVE_U_TURN
@@ -2049,8 +2049,8 @@ trainerdata 60, "Henry"
 
 trainerdata 61, "Antonio"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_BURGLAR
-    nummons 1
+    trainerclass TRAINERCLASS_HIKER
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -2063,8 +2063,15 @@ trainerdata 61, "Antonio"
         // mon 0
         ivs 0
         abilityslot 0
-        level 15
-        pokemon SPECIES_EKANS
+        level 14
+        pokemon SPECIES_GEODUDE
+        ballseal 0
+
+        // mon 1
+        ivs 0
+        abilityslot 32
+        level 14
+        pokemon SPECIES_ROGGENROLA
         ballseal 0
     endparty
 
@@ -2878,7 +2885,7 @@ trainerdata 87, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 110
+        ivs 160
         abilityslot 0
         level 36
         pokemon SPECIES_LARVITAR
@@ -2952,7 +2959,7 @@ trainerdata 88, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 110
+        ivs 160
         abilityslot 0
         level 36
         pokemon SPECIES_LARVITAR
@@ -3537,7 +3544,7 @@ trainerdata 105, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 110
+        ivs 160
         abilityslot 0
         level 36
         pokemon SPECIES_LARVITAR
@@ -8860,7 +8867,7 @@ trainerdata 264, "Silver"
 
         // mon 4
         ivs 200
-        abilityslot 0
+        abilityslot 64
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -9060,7 +9067,7 @@ trainerdata 268, "Silver"
 
         // mon 4
         ivs 200
-        abilityslot 0
+        abilityslot 64
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -9226,7 +9233,7 @@ trainerdata 271, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 150
+        ivs 180
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
@@ -9313,7 +9320,7 @@ trainerdata 272, "Silver"
 
         // mon 4
         ivs 200
-        abilityslot 0
+        abilityslot 64
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -9987,7 +9994,7 @@ trainerdata 288, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 150
+        ivs 180
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
@@ -10061,7 +10068,7 @@ trainerdata 289, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 150
+        ivs 180
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
