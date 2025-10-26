@@ -698,18 +698,6 @@ trainerdata 21, "Bugsy"
         ballseal 0
 
         // mon 1
-        ivs 70
-        abilityslot 0
-        level 20
-        pokemon SPECIES_HERACROSS
-        item ITEM_ORAN_BERRY
-        move MOVE_LOW_KICK
-        move MOVE_ROCK_THROW
-        move MOVE_U_TURN
-        move MOVE_LEER
-        ballseal 0
-
-        // mon 2
         ivs 80
         abilityslot 0
         level 18
@@ -719,6 +707,18 @@ trainerdata 21, "Bugsy"
         move MOVE_THUNDER_PUNCH
         move MOVE_U_TURN
         move MOVE_AIR_CUTTER
+        ballseal 0
+
+        // mon 2
+        ivs 70
+        abilityslot 0
+        level 20
+        pokemon SPECIES_HERACROSS
+        item ITEM_ORAN_BERRY
+        move MOVE_LOW_KICK
+        move MOVE_ROCK_THROW
+        move MOVE_U_TURN
+        move MOVE_LEER
         ballseal 0
     endparty
 
@@ -791,14 +791,14 @@ trainerdata 24, "Alan"
         // mon 0
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_TANGELA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_STANTLER
         ballseal 0
     endparty
@@ -1689,14 +1689,14 @@ trainerdata 46, "Martha"
         // mon 0
         ivs 10
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_MISDREAVUS
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -2995,14 +2995,14 @@ trainerdata 89, "Grace"
         // mon 0
         ivs 10
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -4980,7 +4980,7 @@ trainerdata 153, "Richard"
         // mon 1
         ivs 0
         abilityslot 0
-        level 21
+        level 22
         pokemon SPECIES_SMEARGLE
         ballseal 0
     endparty
@@ -5573,7 +5573,7 @@ trainerdata 175, "Bethany"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
+        level 26
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -5594,8 +5594,8 @@ trainerdata 176, "Margaret"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
-        pokemon SPECIES_HAUNTER
+        level 26
+        pokemon SPECIES_SHUPPET
         ballseal 0
     endparty
 
@@ -5615,7 +5615,7 @@ trainerdata 177, "Ethel"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
+        level 26
         pokemon SPECIES_HAUNTER
         ballseal 0
     endparty
@@ -8791,7 +8791,7 @@ trainerdata 263, "Silver"
         // mon 3
         ivs 80
         abilityslot 0
-        level 26
+        level 25
         pokemon SPECIES_BAYLEEF
         move MOVE_SYNTHESIS
         move MOVE_DISARMING_VOICE
@@ -8991,7 +8991,7 @@ trainerdata 267, "Silver"
         // mon 3
         ivs 80
         abilityslot 0
-        level 26
+        level 25
         pokemon SPECIES_QUILAVA
         move MOVE_FLAME_WHEEL
         move MOVE_SMOKESCREEN
@@ -9170,7 +9170,7 @@ trainerdata 270, "Silver"
         // mon 3
         ivs 80
         abilityslot 0
-        level 26
+        level 25
         pokemon SPECIES_CROCONAW
         move MOVE_SCARY_FACE
         move MOVE_ICE_FANG
@@ -9597,7 +9597,7 @@ trainerdata 281, "Richard"
         // mon 0
         ivs 0
         abilityslot 0
-        level 19
+        level 21
         pokemon SPECIES_CYNDAQUIL
         ballseal 0
 
@@ -12997,21 +12997,21 @@ trainerdata 386, "Andrea"
         // mon 0
         ivs 0
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_NATU
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_DROWZEE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_SMOOCHUM
         ballseal 0
     endparty
@@ -13358,14 +13358,14 @@ trainerdata 398, "Valerie"
         ivs 0
         abilityslot 0
         level 23
-        pokemon SPECIES_SKIPLOOM
+        pokemon SPECIES_MEOWTH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
         level 23
-        pokemon SPECIES_EEVEE
+        pokemon SPECIES_DELCATTY
         ballseal 0
     endparty
 
@@ -16582,8 +16582,8 @@ trainerdata 493, "Edith"
         // mon 0
         ivs 10
         abilityslot 0
-        level 25
-        pokemon SPECIES_HAUNTER
+        level 26
+        pokemon SPECIES_PHANTUMP
         ballseal 0
     endparty
 
@@ -16603,21 +16603,21 @@ trainerdata 494, "Georgina"
         // mon 0
         ivs 10
         abilityslot 0
-        level 23
+        level 24
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 23
+        level 24
         pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 23
+        level 25
         pokemon SPECIES_PHANTUMP
         ballseal 0
     endparty
@@ -22782,7 +22782,7 @@ trainerdata 679, "Callie"
         // mon 1
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_WIGGLYTUFF
         move MOVE_SING
         move MOVE_DEFENSE_CURL
@@ -22818,7 +22818,7 @@ trainerdata 680, "Kassandra"
         // mon 1
         ivs 0
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_CLEFABLE
         move MOVE_GROWL
         move MOVE_ENCORE
