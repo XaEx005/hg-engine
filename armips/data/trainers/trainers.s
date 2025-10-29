@@ -1371,7 +1371,7 @@ trainerdata 37, "Luisa"
         // mon 0
         ivs 0
         abilityslot 0
-        level 23
+        level 24
         pokemon SPECIES_GROWLITHE
         ballseal 0
 
@@ -1427,7 +1427,7 @@ trainerdata 39, "Eugene"
         // mon 1
         ivs 0
         abilityslot 32
-        level 24
+        level 25
         pokemon SPECIES_POLIWHIRL
         ballseal 0
 
@@ -1616,7 +1616,7 @@ trainerdata 44, "Derek"
 
     party 44
         // mon 0
-        ivs 30
+        ivs 10
         abilityslot 0
         level 24
         pokemon SPECIES_PIKACHU
@@ -2468,7 +2468,7 @@ trainerdata 73, "Sharon"
         // mon 0
         ivs 30
         abilityslot 0
-        level 23
+        level 24
         pokemon SPECIES_NATU
         ballseal 0
 
@@ -6570,7 +6570,7 @@ trainerdata 211, "Huey"
         // mon 1
         ivs 0
         abilityslot 0
-        level 25
+        level 26
         pokemon SPECIES_OCTILLERY
         ballseal 0
     endparty
@@ -6599,7 +6599,7 @@ trainerdata 212, "Terrell"
 trainerdata 213, "Kent"
     trainermontype TRAINER_DATA_TYPE_MOVES
     trainerclass TRAINERCLASS_SAILOR
-    nummons 2
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -6610,20 +6610,9 @@ trainerdata 213, "Kent"
 
     party 213
         // mon 0
-        ivs 10
-        abilityslot 0
-        level 24
-        pokemon SPECIES_KRABBY
-        move MOVE_BUBBLE_BEAM
-        move MOVE_LEER
-        move MOVE_VICE_GRIP
-        move MOVE_HARDEN
-        ballseal 0
-
-        // mon 1
-        ivs 10
+        ivs 30
         abilityslot 32
-        level 26
+        level 27
         pokemon SPECIES_KINGLER
         move MOVE_BUBBLE_BEAM
         move MOVE_MUD_SHOT
@@ -6648,14 +6637,14 @@ trainerdata 214, "Roberto"
         // mon 0
         ivs 0
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_MACHOP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 23
+        level 25
         pokemon SPECIES_TENTACOOL
         ballseal 0
 
@@ -6725,7 +6714,7 @@ trainerdata 217, "Denis"
         // mon 0
         ivs 30
         abilityslot 0
-        level 25
+        level 26
         pokemon SPECIES_PIDGEOTTO
         ballseal 0
 
@@ -18592,7 +18581,7 @@ trainerdata 550, "Samantha"
 
     party 550
         // mon 0
-        ivs 30
+        ivs 0
         abilityslot 0
         level 25
         pokemon SPECIES_MILTANK
@@ -22649,7 +22638,7 @@ trainerdata 675, "Lance"
         // mon 0
         ivs 250
         abilityslot 0
-        level 40
+        level 45
         pokemon SPECIES_DRAGONITE
         move MOVE_WING_ATTACK
         move MOVE_REFLECT
@@ -22660,7 +22649,7 @@ trainerdata 675, "Lance"
         // mon 1
         ivs 250
         abilityslot 0
-        level 40
+        level 45
         monwithform SPECIES_EXEGGUTOR, 1
         move MOVE_DRAGON_HAMMER
         move MOVE_WOOD_HAMMER
