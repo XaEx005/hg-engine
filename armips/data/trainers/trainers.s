@@ -1139,7 +1139,7 @@ trainerdata 33, "Jasmine"
     party 33
         // mon 0
         ivs 150
-        abilityslot 0
+        abilityslot 32
         level 34
         pokemon SPECIES_SKARMORY
         item ITEM_NONE
@@ -1358,7 +1358,7 @@ trainerdata 36, "Joyce"
 trainerdata 37, "Luisa"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_SOCIALITE
-    nummons 2
+    nummons 1
     item ITEM_FULL_RESTORE
     item ITEM_NONE
     item ITEM_NONE
@@ -1371,14 +1371,7 @@ trainerdata 37, "Luisa"
         // mon 0
         ivs 0
         abilityslot 0
-        level 24
-        pokemon SPECIES_GROWLITHE
-        ballseal 0
-
-        // mon 1
-        ivs 0
-        abilityslot 0
-        level 26
+        level 27
         pokemon SPECIES_ARCANINE
         ballseal 0
     endparty
@@ -2468,14 +2461,14 @@ trainerdata 73, "Sharon"
         // mon 0
         ivs 30
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_NATU
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 32
-        level 26
+        level 27
         pokemon SPECIES_XATU
         ballseal 0
     endparty
@@ -6563,22 +6556,22 @@ trainerdata 211, "Huey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 24
+        level 25
         pokemon SPECIES_REMORAID
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 26
+        level 27
         pokemon SPECIES_OCTILLERY
         ballseal 0
     endparty
 
-trainerdata 212, "Terrell"
+trainerdata 212, "Terea"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_SAILOR
-    nummons 1
+    trainerclass TRAINERCLASS_LADY
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -6589,6 +6582,13 @@ trainerdata 212, "Terrell"
 
     party 212
         // mon 0
+        ivs 0
+        abilityslot 0
+        level 27
+        pokemon SPECIES_TEDDIURSA
+        ballseal 0
+
+        // mon 1
         ivs 0
         abilityslot 0
         level 27
@@ -6612,7 +6612,7 @@ trainerdata 213, "Kent"
         // mon 0
         ivs 30
         abilityslot 32
-        level 27
+        level 28
         pokemon SPECIES_KINGLER
         move MOVE_BUBBLE_BEAM
         move MOVE_MUD_SHOT
@@ -6637,21 +6637,21 @@ trainerdata 214, "Roberto"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
+        level 26
         pokemon SPECIES_MACHOP
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 25
+        level 26
         pokemon SPECIES_TENTACOOL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 26
+        level 27
         pokemon SPECIES_MACHOKE
         ballseal 0
     endparty
@@ -6673,7 +6673,7 @@ trainerdata 215, "Cornelius"
         ivs 0
         abilityslot 0
         level 27
-        pokemon SPECIES_AZUMARILL
+        pokemon SPECIES_JUMPLUFF
         ballseal 0
     endparty
 
@@ -6700,8 +6700,8 @@ trainerdata 216, "Grunt"
 
 trainerdata 217, "Denis"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_BIRD_KEEPER_GS
-    nummons 2
+    trainerclass TRAINERCLASS_BURGLAR
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -6712,17 +6712,10 @@ trainerdata 217, "Denis"
 
     party 217
         // mon 0
-        ivs 30
+        ivs 40
         abilityslot 0
-        level 26
-        pokemon SPECIES_PIDGEOTTO
-        ballseal 0
-
-        // mon 1
-        ivs 30
-        abilityslot 0
-        level 26
-        pokemon SPECIES_FEAROW
+        level 28
+        pokemon SPECIES_HOUNDOOM
         ballseal 0
     endparty
 
@@ -13424,7 +13417,7 @@ trainerdata 400, "Dan"
 trainerdata 401, "Alfred"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_GENTLEMAN
-    nummons 1
+    nummons 3
     item ITEM_FULL_RESTORE
     item ITEM_NONE
     item ITEM_NONE
@@ -13435,6 +13428,20 @@ trainerdata 401, "Alfred"
 
     party 401
         // mon 0
+        ivs 30
+        abilityslot 0
+        level 25
+        pokemon SPECIES_HOOTHOOT
+        ballseal 0
+
+        // mon 1
+        ivs 30
+        abilityslot 0
+        level 25
+        pokemon SPECIES_PHANPY
+        ballseal 0
+
+        // mon 2
         ivs 50
         abilityslot 0
         level 26

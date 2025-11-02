@@ -2018,9 +2018,9 @@ _123C: // Trainer 73
     trainertextentry  73, TEXT_DEFEATED_IN_OVERWORLD, "How in the world do you go up?\rI want to visit the sick Pokémon, but I\ncan’t get up there...\n"
 
 _1248: // Trainer 217
-    trainertextentry 217, TEXT_NOTICE_IN_OVERWORLD, "We’re pretty high up here. My bird\nPokémon are in prime form.\r"
-    trainertextentry 217, TEXT_DEFEATED_IN_BATTLE, "Oops...\nThey crashed...\n"
-    trainertextentry 217, TEXT_DEFEATED_IN_OVERWORLD, "My bird Pokémon trained in Cianwood.\nSince I’ve lost, maybe we’ll go across\fthe sea.\n"
+    trainertextentry 217, TEXT_NOTICE_IN_OVERWORLD, "We’re pretty high up here. My\nPokémon feels dizzy.\r"
+    trainertextentry 217, TEXT_DEFEATED_IN_BATTLE, "Oops...\nhe fainted...\n"
+    trainertextentry 217, TEXT_DEFEATED_IN_OVERWORLD, "My Houndoom trained in Cianwood.\nSince I’ve lost, maybe we’ll go across\fthe sea.\n"
 
 _1254: // Trainer 37
     trainertextentry  37, TEXT_NOTICE_IN_OVERWORLD, "I travel the world to train my Pokémon.\nNow, I wish to battle with you.\r"
@@ -2045,7 +2045,7 @@ _127C: // Trainer 211
     trainertextentry 211, TEXT_REMATCH_IN_OVERWORLD, "Hey, you’re back!\nJust in time for me to show off!\r"
 
 _128C: // Trainer 212
-    trainertextentry 212, TEXT_NOTICE_IN_OVERWORLD, "Sailors are both kind and strong.\nHow about you?\r"
+    trainertextentry 212, TEXT_NOTICE_IN_OVERWORLD, "Sailors here are both kind and strong.\nHow about you?\r"
     trainertextentry 212, TEXT_DEFEATED_IN_BATTLE, "You are both kind and strong...\n"
     trainertextentry 212, TEXT_DEFEATED_IN_OVERWORLD, "Every time I come back to Olivine,\nI visit the Gym.\rThe Gym Leader’s Pokémon type\nchanged without my noticing.\n"
 
