@@ -4072,7 +4072,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 20, 21, 21, 22, 23, 20, 22, 21, 21, 23, 26, 27
+walklevels 21, 21, 22, 23, 23, 22, 23, 21, 21, 23, 26, 27
 
 // morning encounter slots
 pokemon SPECIES_MARILL
@@ -5424,7 +5424,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 26, 26, 27, 27, 26, 27, 29, 29, 28, 30, 34, 34
+walklevels 27, 27, 28, 28, 27, 27, 29, 30, 29, 31, 34, 35
 
 // morning encounter slots
 pokemon SPECIES_MANKEY
@@ -5944,7 +5944,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 30, 30, 32, 32, 31, 32, 33, 33, 32, 34, 38, 39
+walklevels 31, 31, 32, 33, 30, 32, 33, 33, 32, 34, 37, 38
 
 // morning encounter slots
 pokemon SPECIES_ARBOK
@@ -7453,10 +7453,10 @@ pokemon SPECIES_GABITE
 pokemon SPECIES_RIOLU
 
 // surf encounters
-encounterwithform SPECIES_BASCULIN, 1, 21, 25
-encounterwithform SPECIES_QWILFISH, 1, 22, 26
-encounterwithform SPECIES_CORSOLA, 1, 23, 26
-encounterwithform SPECIES_CORSOLA, 1, 27, 29
+encounterwithform SPECIES_BASCULIN, 1, 27, 28
+encounterwithform SPECIES_QWILFISH, 1, 28, 29
+encounterwithform SPECIES_CORSOLA, 1, 27, 28
+encounterwithform SPECIES_CORSOLA, 1, 29, 30
 encounter SPECIES_CURSOLA, 31, 32
 
 // rock smash encounters
@@ -10624,7 +10624,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 25, 24, 25, 25, 25, 26, 26, 26, 27, 26, 31, 32
+walklevels 28, 30, 28, 27, 29, 28, 29, 30, 28, 30, 32, 32
 
 // morning encounter slots
 monwithform SPECIES_SANDSHREW, 1
@@ -10637,8 +10637,8 @@ monwithform SPECIES_VULPIX, 1
 monwithform SPECIES_SNEASEL, 1
 monwithform SPECIES_TAUROS, 1
 monwithform SPECIES_TAUROS, 1
-monwithform SPECIES_RAICHU, 1
-monwithform SPECIES_EXEGGUTOR, 1
+monwithform SPECIES_TAUROS, 2
+monwithform SPECIES_TAUROS, 3
 
 // day encounter slots
 monwithform SPECIES_SANDSHREW, 1
@@ -10651,12 +10651,12 @@ monwithform SPECIES_VULPIX, 1
 monwithform SPECIES_SNEASEL, 1
 monwithform SPECIES_TAUROS, 1
 monwithform SPECIES_TAUROS, 1
-monwithform SPECIES_RAICHU, 1
-monwithform SPECIES_EXEGGUTOR, 1
+monwithform SPECIES_TAUROS, 2
+monwithform SPECIES_TAUROS, 3
 
 // night encounter slots
 monwithform SPECIES_WOOPER, 1
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_SKARMORY
 monwithform SPECIES_MEOWTH, 1
 monwithform SPECIES_RATTATA, 1
 monwithform SPECIES_SLOWPOKE, 1
@@ -10665,7 +10665,7 @@ monwithform SPECIES_PONYTA, 1
 monwithform SPECIES_MR_MIME, 1
 monwithform SPECIES_TAUROS, 1
 monwithform SPECIES_TAUROS, 1
-monwithform SPECIES_MAROWAK, 1
+monwithform SPECIES_WEEZING, 1
 monwithform SPECIES_WEEZING, 1
 
 // hoenn encounter slots
