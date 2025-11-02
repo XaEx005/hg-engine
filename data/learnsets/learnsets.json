@@ -27585,31 +27585,27 @@
         "Move": "MOVE_LEECH_SEED"
       },
       {
-        "Level": 23,
-        "Move": "MOVE_SWEET_SCENT"
-      },
-      {
-        "Level": 26,
+        "Level": 24,
         "Move": "MOVE_LIGHT_SCREEN"
       },
       {
-        "Level": 30,
+        "Level": 29,
         "Move": "MOVE_BODY_SLAM"
       },
       {
-        "Level": 34,
+        "Level": 33,
         "Move": "MOVE_GIGA_DRAIN"
       },
       {
         "Level": 37,
-        "Move": "MOVE_PLAY_ROUGH"
+        "Move": "MOVE_DAZZLING_GLEAM"
       },
       {
-        "Level": 38,
+        "Level": 39,
         "Move": "MOVE_SAFEGUARD"
       },
       {
-        "Level": 43,
+        "Level": 44,
         "Move": "MOVE_SOLAR_BEAM"
       }
     ],
@@ -27742,31 +27738,27 @@
         "Move": "MOVE_LEECH_SEED"
       },
       {
-        "Level": 24,
-        "Move": "MOVE_SWEET_SCENT"
-      },
-      {
-        "Level": 27,
+        "Level": 25,
         "Move": "MOVE_LIGHT_SCREEN"
       },
       {
-        "Level": 31,
+        "Level": 30,
         "Move": "MOVE_BODY_SLAM"
       },
       {
-        "Level": 35,
+        "Level": 34,
         "Move": "MOVE_GIGA_DRAIN"
       },
       {
         "Level": 38,
-        "Move": "MOVE_PLAY_ROUGH"
+        "Move": "MOVE_DAZZLING_GLEAM"
       },
       {
         "Level": 40,
         "Move": "MOVE_SAFEGUARD"
       },
       {
-        "Level": 45,
+        "Level": 46,
         "Move": "MOVE_SOLAR_BEAM"
       }
     ],
@@ -27888,6 +27880,10 @@
       },
       {
         "Level": 1,
+        "Move": "MOVE_SWEET_SCENT"
+      },
+      {
+        "Level": 1,
         "Move": "MOVE_RAZOR_LEAF"
       },
       {
@@ -27919,28 +27915,24 @@
         "Move": "MOVE_LEECH_SEED"
       },
       {
-        "Level": 24,
-        "Move": "MOVE_SWEET_SCENT"
-      },
-      {
-        "Level": 27,
+        "Level": 25,
         "Move": "MOVE_LIGHT_SCREEN"
       },
       {
-        "Level": 31,
+        "Level": 30,
         "Move": "MOVE_BODY_SLAM"
       },
       {
-        "Level": 35,
-        "Move": "MOVE_SAFEGUARD"
+        "Level": 36,
+        "Move": "MOVE_GIGA_DRAIN"
       },
       {
-        "Level": 39,
-        "Move": "MOVE_PLAY_ROUGH"
+        "Level": 41,
+        "Move": "MOVE_DAZZLING_GLEAM"
       },
       {
         "Level": 44,
-        "Move": "MOVE_GIGA_DRAIN"
+        "Move": "MOVE_SAFEGUARD"
       },
       {
         "Level": 50,
