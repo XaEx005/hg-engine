@@ -1144,7 +1144,7 @@ trainerdata 33, "Jasmine"
         pokemon SPECIES_SKARMORY
         item ITEM_NONE
         move MOVE_SPIKES
-        move MOVE_STEEL_WING
+        move MOVE_IRON_TAIL
         move MOVE_DRILL_PECK
         move MOVE_SWAGGER
         ballseal 0
@@ -1153,7 +1153,7 @@ trainerdata 33, "Jasmine"
         ivs 150
         abilityslot 32
         level 34
-        pokemon SPECIES_MAGNETON
+        pokemon SPECIES_MAGNEZONE
         item ITEM_NONE
         move MOVE_THUNDERBOLT
         move MOVE_FLASH_CANNON
@@ -11733,9 +11733,9 @@ trainerdata 346, "Lucia"
 
     party 346
         // mon 0
-        ivs 40
+        ivs 50
         abilityslot 0
-        level 33
+        level 34
         monwithform SPECIES_DUGTRIO, 1
         ballseal 0
     endparty
@@ -18673,15 +18673,15 @@ trainerdata 554, "Milton"
         // mon 0
         ivs 40
         abilityslot 0
-        level 32
-        monwithform SPECIES_MEOWTH, 2
+        level 33
+        pokemon SPECIES_MAGNETON
         ballseal 0
 
         // mon 1
         ivs 40
         abilityslot 0
-        level 32
-        pokemon SPECIES_PERRSERKER
+        level 33
+        pokemon SPECIES_MAGNETON
         ballseal 0
         endparty
 
@@ -25513,14 +25513,14 @@ trainerdata 731, "Devin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 28
+        level 30
         pokemon SPECIES_DUNSPARCE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 30
+        level 31
         pokemon SPECIES_DUDUNSPARCE
         ballseal 0
 
@@ -25548,14 +25548,14 @@ trainerdata 732, "Grant"
         // mon 0
         ivs 0
         abilityslot 0
-        level 30
+        level 31
         monwithform SPECIES_RATICATE, 1
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 30
+        level 31
         monwithform SPECIES_RAICHU, 1
         ballseal 0
     endparty

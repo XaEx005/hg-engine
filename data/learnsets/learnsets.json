@@ -40902,6 +40902,7 @@
       "MOVE_THIEF",
       "MOVE_TORMENT",
       "MOVE_TOXIC",
+      "MOVE_IRON_TAIL",
       "MOVE_X_SCISSOR"
     ],
     "EggMoves": [
