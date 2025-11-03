@@ -1304,12 +1304,12 @@ trainerdata 35, "Clair"
         ivs 200
         abilityslot 0
         level 48
-        monwithform SPECIES_GOODRA, 1
+        pokemon SPECIES_DRAMPA
         item ITEM_NONE
         move MOVE_DRAGON_PULSE
-        move MOVE_RAIN_DANCE
-        move MOVE_SURF
-        move MOVE_IRON_TAIL
+        move MOVE_ROOST
+        move MOVE_FLAMETHROWER
+        move MOVE_HYPER_VOICE
         ball ITEM_ULTRA_BALL
         ballseal 0
 
@@ -3968,7 +3968,7 @@ trainerdata 119, "Fran"
         ivs 50
         abilityslot 32
         level 48
-        monwithform SPECIES_SLIGGOO, 1
+        monwithform SPECIES_EXEGGUTOR, 1
         ballseal 0
     endparty
 
@@ -16832,7 +16832,7 @@ trainerdata 501, "Piper"
     endparty
 
 trainerdata 502, "Clea & Gil"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TWINS
     nummons 2
     item ITEM_NONE
@@ -16845,25 +16845,17 @@ trainerdata 502, "Clea & Gil"
 
     party 502
         // mon 0
-        ivs 50
+        ivs 150
         abilityslot 0
         level 49
-        pokemon SPECIES_DRATINI
-        move MOVE_THUNDER_WAVE
-        move MOVE_TWISTER
-        move MOVE_THUNDERBOLT
-        move MOVE_HEADBUTT
+        pokemon SPECIES_TRAPINCH
         ballseal 0
 
         // mon 1
-        ivs 50
+        ivs 150
         abilityslot 0
         level 49
-        pokemon SPECIES_GOOMY
-        move MOVE_ABSORB
-        move MOVE_DRAGON_BREATH
-        move MOVE_SURF
-        move MOVE_MUD_SHOT
+        pokemon SPECIES_EXEGGCUTE
         ballseal 0
     endparty
 
@@ -24718,10 +24710,10 @@ trainerdata 719, "Clair"
         abilityslot 0
         level 64
         pokemon SPECIES_DRAMPA
-        item ITEM_SITRUS_BERRY
-        move MOVE_EXTRASENSORY
-        move MOVE_FLAMETHROWER
+        item ITEM_NONE
         move MOVE_DRACO_METEOR
+        move MOVE_CALM_MIND
+        move MOVE_FOCUS_BLAST
         move MOVE_HYPER_VOICE
         ballseal 0
     endparty
