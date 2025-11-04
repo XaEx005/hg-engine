@@ -47,7 +47,6 @@ const struct BadgeMartItems sBadgeMart[] = {
     { ITEM_LEAF_STONE,     5 },
     { ITEM_ICE_STONE,      5 },
     { ITEM_LINKING_CORD,   5 },
-    { ITEM_KINGS_ROCK,     5 },
     { ITEM_DUSK_STONE,     7 },
     { ITEM_SHINY_STONE,    7 },
 };

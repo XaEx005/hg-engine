@@ -852,7 +852,7 @@ walklevels 7, 6, 6, 6, 7, 7, 8, 8, 8, 7, 13, 12
 
 // morning encounter slots
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_SANDSHREW
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_MAREEP
@@ -866,7 +866,7 @@ pokemon SPECIES_HOPPIP
 
 // day encounter slots
 pokemon SPECIES_BELLSPROUT
-pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_SANDSHREW
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_MAREEP
@@ -880,7 +880,7 @@ pokemon SPECIES_HOPPIP
 
 // night encounter slots
 pokemon SPECIES_ODDISH
-pokemon SPECIES_ODDISH
+pokemon SPECIES_SANDSHREW
 pokemon SPECIES_MAREEP
 pokemon SPECIES_HOPPIP
 pokemon SPECIES_MAREEP
@@ -1472,20 +1472,20 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 9, 9, 11, 11, 10, 12, 10, 10, 12, 12, 16, 15
+walklevels 9, 9, 11, 11, 10, 12, 12, 10, 13, 12, 15, 16
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // day encounter slots
@@ -1493,13 +1493,13 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // night encounter slots
@@ -1507,13 +1507,13 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // hoenn encounter slots
@@ -1576,20 +1576,20 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 9, 9, 11, 11, 10, 12, 10, 10, 12, 12, 16, 15
+walklevels 9, 9, 11, 11, 10, 12, 12, 10, 13, 12, 15, 16
 
 // morning encounter slots
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // day encounter slots
@@ -1597,13 +1597,13 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // night encounter slots
@@ -1611,13 +1611,13 @@ pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_SANDSHREW
+pokemon SPECIES_CUBONE
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_CUBONE
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_SLUGMA
 
 // hoenn encounter slots
@@ -1680,49 +1680,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 25, 25, 27, 25, 27, 29, 28, 27, 29, 28, 36, 36
+walklevels 25, 25, 27, 27, 26, 24, 25, 26, 27, 27, 31, 30
 
 // morning encounter slots
 pokemon SPECIES_GRAVELER
-pokemon SPECIES_SANDSLASH
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_ONIX
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
+pokemon SPECIES_CUBONE
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 
 // day encounter slots
 pokemon SPECIES_GRAVELER
-pokemon SPECIES_SANDSLASH
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_ONIX
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
+pokemon SPECIES_CUBONE
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 
 // night encounter slots
 pokemon SPECIES_GRAVELER
-pokemon SPECIES_SANDSLASH
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_GRAVELER
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_ONIX
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_DUGTRIO
+pokemon SPECIES_CUBONE
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 
 // hoenn encounter slots
 pokemon SPECIES_LAIRON
@@ -1992,49 +1992,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 21, 23, 21, 23, 19, 19, 21, 21, 23, 23, 23, 23
+walklevels 11, 13, 14, 12, 13, 14, 15, 16, 12, 14, 22, 21
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WOBBUFFET
 
 // day encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WOBBUFFET
 
 // night encounter slots
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_WYNAUT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_WOBBUFFET
 
 // hoenn encounter slots
 pokemon SPECIES_BARBOACH
