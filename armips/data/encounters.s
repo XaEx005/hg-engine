@@ -2304,13 +2304,13 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 14, 14, 15, 15, 14, 16, 13, 13, 15, 15, 19, 19
+walklevels 14, 14, 16, 16, 14, 16, 13, 13, 15, 15, 19, 19
 
 // morning encounter slots
 pokemon SPECIES_NIDORAN_M
 pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
+pokemon SPECIES_NIDORINO
+pokemon SPECIES_NIDORINA
 pokemon SPECIES_MACHOP
 pokemon SPECIES_MACHOP
 pokemon SPECIES_PICHU
@@ -2616,48 +2616,48 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 15, 15, 17, 17, 18, 16, 16, 18, 17, 19, 20, 21
+walklevels 16, 16, 18, 18, 19, 16, 16, 18, 17, 19, 20, 21
 
 // morning encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORINO
-pokemon SPECIES_NIDORINA
+pokemon SPECIES_PIDGEY
+pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_STANTLER
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GROWLITHE
 pokemon SPECIES_BONSLY
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_STANTLER
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_STANTLER
+pokemon SPECIES_BONSLY
 pokemon SPECIES_GROWLITHE
 
 // day encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORINO
-pokemon SPECIES_NIDORINA
+pokemon SPECIES_PIDGEY
+pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_STANTLER
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_GROWLITHE
 pokemon SPECIES_BONSLY
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_STANTLER
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_STANTLER
+pokemon SPECIES_BONSLY
 pokemon SPECIES_GROWLITHE
 
 // night encounter slots
-pokemon SPECIES_NIDORAN_M
-pokemon SPECIES_NIDORAN_F
-pokemon SPECIES_NIDORINO
-pokemon SPECIES_NIDORINA
 pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_STANTLER
+pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_STANTLER
+pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_BONSLY
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_STANTLER
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_STANTLER
+pokemon SPECIES_BONSLY
 pokemon SPECIES_HOUNDOUR
 
 // hoenn encounter slots
@@ -2720,7 +2720,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 18, 19, 15, 19, 17, 19, 20, 17, 22, 23
+walklevels 17, 17, 19, 19, 16, 20, 18, 19, 20, 17, 23, 24
 
 // morning encounter slots
 pokemon SPECIES_STANTLER
@@ -2734,7 +2734,7 @@ pokemon SPECIES_GROWLITHE
 pokemon SPECIES_NUZLEAF
 pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_STANTLER
 
 // day encounter slots
 pokemon SPECIES_STANTLER
@@ -2748,7 +2748,7 @@ pokemon SPECIES_GROWLITHE
 pokemon SPECIES_NUZLEAF
 pokemon SPECIES_IGGLYBUFF
 pokemon SPECIES_JIGGLYPUFF
-pokemon SPECIES_JIGGLYPUFF
+pokemon SPECIES_STANTLER
 
 // night encounter slots
 pokemon SPECIES_PHANTUMP
@@ -2762,7 +2762,7 @@ pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_NUZLEAF
 pokemon SPECIES_CLEFFA
 pokemon SPECIES_CLEFAIRY
-pokemon SPECIES_CLEFAIRY
+pokemon SPECIES_HOUNDOOM
 
 // hoenn encounter slots
 pokemon SPECIES_CHIMECHO
@@ -5424,7 +5424,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 27, 27, 28, 28, 27, 27, 29, 30, 29, 31, 34, 35
+walklevels 27, 27, 29, 29, 28, 29, 31, 30, 30, 32, 36, 37
 
 // morning encounter slots
 pokemon SPECIES_MANKEY
@@ -5462,9 +5462,9 @@ pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_MURKROW
 pokemon SPECIES_MURKROW
-pokemon SPECIES_PRIMEAPE
 pokemon SPECIES_GLIGAR
-pokemon SPECIES_PRIMEAPE
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_MURKROW
 pokemon SPECIES_MURKROW
 pokemon SPECIES_GLIGAR
 
@@ -5528,7 +5528,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 26, 27, 25, 26, 26, 28, 27, 27, 28, 28, 33, 32
+walklevels 30, 29, 28, 30, 28, 31, 31, 30, 32, 30, 37, 36
 
 // morning encounter slots
 pokemon SPECIES_ONIX
@@ -5632,7 +5632,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 27, 28, 26, 27, 26, 29, 28, 28, 30, 28, 33, 32
+walklevels 30, 29, 28, 30, 29, 31, 31, 30, 32, 31, 37, 36
 
 // morning encounter slots
 pokemon SPECIES_ONIX
@@ -5840,7 +5840,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 27, 28, 26, 27, 26, 29, 28, 28, 30, 28, 33, 32
+walklevels 30, 29, 28, 30, 29, 31, 31, 30, 32, 32, 37, 36
 
 // morning encounter slots
 pokemon SPECIES_ONIX
@@ -5944,7 +5944,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 31, 31, 32, 33, 30, 32, 33, 33, 32, 34, 37, 38
+walklevels 32, 32, 32, 34, 33, 33, 34, 34, 34, 35, 38, 38
 
 // morning encounter slots
 pokemon SPECIES_ARBOK
