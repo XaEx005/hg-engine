@@ -2200,7 +2200,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 11, 12, 13, 14, 15, 14, 16, 13, 15, 15, 19, 19
+walklevels 13, 13, 14, 14, 15, 14, 15, 14, 16, 15, 19, 19
 
 // morning encounter slots
 pokemon SPECIES_DROWZEE
@@ -2236,13 +2236,13 @@ pokemon SPECIES_PONYTA
 pokemon SPECIES_DROWZEE
 pokemon SPECIES_PONYTA
 pokemon SPECIES_DROWZEE
-pokemon SPECIES_GRIMER
-pokemon SPECIES_GRIMER
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_GLIGAR
 pokemon SPECIES_ABRA
 pokemon SPECIES_ABRA
-pokemon SPECIES_DITTO
+pokemon SPECIES_GRIMER
 pokemon SPECIES_KADABRA
-pokemon SPECIES_DITTO
+pokemon SPECIES_GRIMER
 
 // hoenn encounter slots
 pokemon SPECIES_SLAKOTH
@@ -2304,7 +2304,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 14, 14, 16, 16, 14, 16, 13, 13, 15, 15, 19, 19
+walklevels 15, 15, 17, 17, 14, 16, 15, 15, 17, 17, 21, 21
 
 // morning encounter slots
 pokemon SPECIES_NIDORAN_M
@@ -2408,13 +2408,13 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 14, 15, 16, 16, 15, 16, 16, 17, 16, 19, 18
+walklevels 15, 16, 16, 18, 17, 17, 18, 18, 17, 16, 21, 20
 
 // morning encounter slots
 pokemon SPECIES_SUNKERN
 pokemon SPECIES_LEDYBA
 pokemon SPECIES_SUNKERN
-pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDIAN
 pokemon SPECIES_SUNKERN
 pokemon SPECIES_PINSIR
 pokemon SPECIES_BEEDRILL
@@ -2428,7 +2428,7 @@ pokemon SPECIES_HERACROSS
 pokemon SPECIES_SUNKERN
 pokemon SPECIES_LEDYBA
 pokemon SPECIES_SUNKERN
-pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDIAN
 pokemon SPECIES_SUNKERN
 pokemon SPECIES_PINSIR
 pokemon SPECIES_BEEDRILL
@@ -2616,14 +2616,14 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 16, 18, 18, 19, 16, 16, 18, 17, 19, 20, 21
+walklevels 16, 16, 18, 18, 17, 16, 16, 18, 17, 19, 20, 21
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_TEDDIURSA
 pokemon SPECIES_STANTLER
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
@@ -2637,7 +2637,7 @@ pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_PIDGEOTTO
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_TEDDIURSA
 pokemon SPECIES_STANTLER
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
@@ -2649,7 +2649,7 @@ pokemon SPECIES_GROWLITHE
 // night encounter slots
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_TEDDIURSA
 pokemon SPECIES_STANTLER
 pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_STANTLER
@@ -5944,7 +5944,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 32, 32, 32, 34, 33, 33, 34, 34, 34, 35, 38, 38
+walklevels 32, 32, 32, 34, 33, 33, 35, 34, 34, 35, 38, 39
 
 // morning encounter slots
 pokemon SPECIES_ARBOK
@@ -5956,7 +5956,7 @@ pokemon SPECIES_ARBOK
 pokemon SPECIES_ARBOK
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_SHUCKLE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_URSARING
 pokemon SPECIES_SHUCKLE
 pokemon SPECIES_URSARING
 
@@ -5970,7 +5970,7 @@ pokemon SPECIES_ARBOK
 pokemon SPECIES_ARBOK
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_SHUCKLE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_URSARING
 pokemon SPECIES_SHUCKLE
 pokemon SPECIES_URSARING
 
@@ -5984,7 +5984,7 @@ pokemon SPECIES_ARIADOS
 pokemon SPECIES_ARIADOS
 pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_SHUCKLE
-pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_URSARING
 pokemon SPECIES_SHUCKLE
 pokemon SPECIES_URSARING
 
