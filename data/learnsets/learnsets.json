@@ -7211,19 +7211,31 @@
         "Move": "MOVE_GUST"
       },
       {
-        "Level": 6,
+        "Level": 1,
         "Move": "MOVE_HYPNOSIS"
       },
       {
-        "Level": 11,
+        "Level": 6,
         "Move": "MOVE_BITE"
       },
       {
-        "Level": 18,
+        "Level": 10,
         "Move": "MOVE_AIR_CUTTER"
       },
       {
+        "Level": 15,
+        "Move": "MOVE_CONFUSE_RAY"
+      },
+      {
+        "Level": 21,
+        "Move": "MOVE_POISON_FANG"
+      },
+      {
         "Level": 25,
+        "Move": "MOVE_WING_ATTACK"
+      },
+      {
+        "Level": 30,
         "Move": "MOVE_CROSS_POISON"
       },
       {
@@ -7231,8 +7243,12 @@
         "Move": "MOVE_AIR_SLASH"
       },
       {
-        "Level": 43,
+        "Level": 39,
         "Move": "MOVE_LEECH_LIFE"
+      },
+      {
+        "Level": 44,
+        "Move": "MOVE_ACROBATICS"
       }
     ],
     "MachineMoves": [
@@ -7345,19 +7361,31 @@
         "Move": "MOVE_GUST"
       },
       {
-        "Level": 6,
+        "Level": 1,
         "Move": "MOVE_HYPNOSIS"
       },
       {
-        "Level": 11,
+        "Level": 6,
         "Move": "MOVE_BITE"
       },
       {
-        "Level": 18,
+        "Level": 10,
         "Move": "MOVE_AIR_CUTTER"
       },
       {
+        "Level": 15,
+        "Move": "MOVE_CONFUSE_RAY"
+      },
+      {
+        "Level": 21,
+        "Move": "MOVE_POISON_FANG"
+      },
+      {
         "Level": 25,
+        "Move": "MOVE_WING_ATTACK"
+      },
+      {
+        "Level": 30,
         "Move": "MOVE_CROSS_POISON"
       },
       {
@@ -7365,8 +7393,12 @@
         "Move": "MOVE_AIR_SLASH"
       },
       {
-        "Level": 43,
+        "Level": 39,
         "Move": "MOVE_LEECH_LIFE"
+      },
+      {
+        "Level": 44,
+        "Move": "MOVE_ACROBATICS"
       }
     ],
     "MachineMoves": [
@@ -9731,23 +9763,23 @@
         "Move": "MOVE_THRASH"
       },
       {
-        "Level": 33,
+        "Level": 34,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 38,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
-        "Level": 36,
-        "Move": "MOVE_SCREECH"
-      },
-      {
-        "Level": 40,
+        "Level": 42,
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
-        "Level": 44,
+        "Level": 45,
         "Move": "MOVE_OUTRAGE"
       },
       {
-        "Level": 48,
+        "Level": 50,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],
@@ -9949,23 +9981,23 @@
         "Move": "MOVE_RAGE_FIST"
       },
       {
-        "Level": 39,
+        "Level": 37,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 41,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
-        "Level": 44,
-        "Move": "MOVE_SCREECH"
-      },
-      {
-        "Level": 48,
+        "Level": 46,
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
-        "Level": 53,
+        "Level": 51,
         "Move": "MOVE_OUTRAGE"
       },
       {
-        "Level": 57,
+        "Level": 56,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],
@@ -29919,27 +29951,27 @@
         "Move": "MOVE_ROOST"
       },
       {
-        "Level": 22,
+        "Level": 21,
         "Move": "MOVE_STRUGGLE_BUG"
       },
       {
-        "Level": 26,
+        "Level": 25,
         "Move": "MOVE_BATON_PASS"
       },
       {
-        "Level": 29,
+        "Level": 28,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 33,
+        "Level": 31,
         "Move": "MOVE_BUG_BUZZ"
       },
       {
-        "Level": 36,
+        "Level": 35,
         "Move": "MOVE_AIR_SLASH"
       },
       {
-        "Level": 40,
+        "Level": 39,
         "Move": "MOVE_DOUBLE_EDGE"
       }
     ],
@@ -30076,27 +30108,27 @@
         "Move": "MOVE_ROOST"
       },
       {
-        "Level": 24,
+        "Level": 23,
         "Move": "MOVE_STRUGGLE_BUG"
       },
       {
-        "Level": 29,
+        "Level": 27,
         "Move": "MOVE_BATON_PASS"
       },
       {
-        "Level": 33,
+        "Level": 31,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 38,
+        "Level": 35,
         "Move": "MOVE_BUG_BUZZ"
       },
       {
-        "Level": 42,
+        "Level": 39,
         "Move": "MOVE_AIR_SLASH"
       },
       {
-        "Level": 47,
+        "Level": 44,
         "Move": "MOVE_DOUBLE_EDGE"
       }
     ],
@@ -30524,19 +30556,31 @@
         "Move": "MOVE_GUST"
       },
       {
-        "Level": 6,
+        "Level": 1,
         "Move": "MOVE_HYPNOSIS"
       },
       {
-        "Level": 11,
+        "Level": 6,
         "Move": "MOVE_BITE"
       },
       {
-        "Level": 18,
+        "Level": 10,
         "Move": "MOVE_AIR_CUTTER"
       },
       {
+        "Level": 15,
+        "Move": "MOVE_CONFUSE_RAY"
+      },
+      {
+        "Level": 21,
+        "Move": "MOVE_POISON_FANG"
+      },
+      {
         "Level": 25,
+        "Move": "MOVE_WING_ATTACK"
+      },
+      {
+        "Level": 30,
         "Move": "MOVE_CROSS_POISON"
       },
       {
@@ -30544,8 +30588,12 @@
         "Move": "MOVE_AIR_SLASH"
       },
       {
-        "Level": 43,
+        "Level": 39,
         "Move": "MOVE_LEECH_LIFE"
+      },
+      {
+        "Level": 44,
+        "Move": "MOVE_ACROBATICS"
       }
     ],
     "MachineMoves": [
@@ -38560,7 +38608,7 @@
         "Move": "MOVE_FURY_ATTACK"
       },
       {
-        "Level": 8,
+        "Level": 9,
         "Move": "MOVE_ENDURE"
       },
       {
@@ -38686,8 +38734,7 @@
       "MOVE_UPPER_HAND",
       "MOVE_VACUUM_WAVE",
       "MOVE_VENOSHOCK",
-      "MOVE_WORK_UP",
-      "MOVE_U_TURN"
+      "MOVE_WORK_UP"
     ],
     "EggMoves": [
       "MOVE_DOUBLE_EDGE",
@@ -163361,23 +163408,23 @@
         "Move": "MOVE_RAGE_FIST"
       },
       {
-        "Level": 39,
+        "Level": 37,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 41,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
-        "Level": 44,
-        "Move": "MOVE_SCREECH"
-      },
-      {
-        "Level": 48,
+        "Level": 46,
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
-        "Level": 53,
+        "Level": 51,
         "Move": "MOVE_OUTRAGE"
       },
       {
-        "Level": 57,
+        "Level": 56,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],

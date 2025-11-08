@@ -418,14 +418,14 @@ trainerdata 14, "Duncan"
         ivs 0
         abilityslot 0
         level 41
-        pokemon SPECIES_ANNIHILAPE
+        pokemon SPECIES_PINSIR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
         level 41
-        pokemon SPECIES_PINSIR
+        pokemon SPECIES_ANNIHILAPE
         ballseal 0
     endparty
 
@@ -692,7 +692,7 @@ trainerdata 21, "Bugsy"
         pokemon SPECIES_SPINARAK
         item ITEM_NONE
         move MOVE_POISON_STING
-        move MOVE_POUNCE
+        move MOVE_BUG_BITE
         move MOVE_SHADOW_SNEAK
         move MOVE_SCARY_FACE
         ballseal 0
@@ -705,19 +705,19 @@ trainerdata 21, "Bugsy"
         item ITEM_NONE
         move MOVE_SILVER_WIND
         move MOVE_THUNDER_PUNCH
-        move MOVE_U_TURN
+        move MOVE_SUPERSONIC
         move MOVE_AIR_CUTTER
         ballseal 0
 
         // mon 2
         ivs 70
-        abilityslot 0
+        abilityslot 1
         level 20
         pokemon SPECIES_HERACROSS
         item ITEM_ORAN_BERRY
         move MOVE_LOW_KICK
         move MOVE_ROCK_THROW
-        move MOVE_U_TURN
+        move MOVE_BUG_BITE
         move MOVE_LEER
         ballseal 0
     endparty
@@ -1322,7 +1322,7 @@ trainerdata 35, "Clair"
         move MOVE_DRAGON_DANCE
         move MOVE_HYDRO_PUMP
         move MOVE_ICE_BEAM
-        move MOVE_DRAGON_BREATH
+        move MOVE_DRAGON_PULSE
         ball ITEM_ULTRA_BALL
         ballseal 0
     endparty
@@ -8775,7 +8775,7 @@ trainerdata 264, "Silver"
 
     party 264
         // mon 0
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_SNEASEL
@@ -8787,7 +8787,7 @@ trainerdata 264, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 200
+        ivs 240
         abilityslot 0
         level 53
         pokemon SPECIES_CROBAT
@@ -8799,7 +8799,7 @@ trainerdata 264, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_MAGNEZONE
@@ -8811,7 +8811,7 @@ trainerdata 264, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_SLOWKING
@@ -8823,8 +8823,8 @@ trainerdata 264, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 200
-        abilityslot 64
+        ivs 240
+        abilityslot 2
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -8835,7 +8835,7 @@ trainerdata 264, "Silver"
         ballseal 0
 
         // mon 5
-        ivs 200
+        ivs 240
         abilityslot 0
         level 54
         pokemon SPECIES_MEGANIUM
@@ -8975,7 +8975,7 @@ trainerdata 268, "Silver"
 
     party 268
         // mon 0
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_SNEASEL
@@ -8987,7 +8987,7 @@ trainerdata 268, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 200
+        ivs 240
         abilityslot 0
         level 53
         pokemon SPECIES_CROBAT
@@ -8999,7 +8999,7 @@ trainerdata 268, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_MAGNEZONE
@@ -9011,7 +9011,7 @@ trainerdata 268, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_EXEGGUTOR
@@ -9023,8 +9023,8 @@ trainerdata 268, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 200
-        abilityslot 64
+        ivs 240
+        abilityslot 2
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -9035,7 +9035,7 @@ trainerdata 268, "Silver"
         ballseal 0
 
         // mon 5
-        ivs 200
+        ivs 240
         abilityslot 0
         level 54
         pokemon SPECIES_TYPHLOSION
@@ -9154,7 +9154,7 @@ trainerdata 271, "Silver"
 
     party 271
         // mon 0
-        ivs 150
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_GOLBAT
@@ -9166,7 +9166,7 @@ trainerdata 271, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_MAGNEZONE
@@ -9178,7 +9178,7 @@ trainerdata 271, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_MAGCARGO
@@ -9190,7 +9190,7 @@ trainerdata 271, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 180
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
@@ -9202,7 +9202,7 @@ trainerdata 271, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 150
+        ivs 180
         abilityslot 0
         level 44
         pokemon SPECIES_FERALIGATR
@@ -9228,7 +9228,7 @@ trainerdata 272, "Silver"
 
     party 272
         // mon 0
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_SNEASEL
@@ -9240,7 +9240,7 @@ trainerdata 272, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 200
+        ivs 240
         abilityslot 0
         level 53
         pokemon SPECIES_CROBAT
@@ -9252,7 +9252,7 @@ trainerdata 272, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_MAGNEZONE
@@ -9264,7 +9264,7 @@ trainerdata 272, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 200
+        ivs 210
         abilityslot 0
         level 51
         pokemon SPECIES_MAGCARGO
@@ -9276,8 +9276,8 @@ trainerdata 272, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 200
-        abilityslot 64
+        ivs 240
+        abilityslot 2
         level 53
         pokemon SPECIES_TYRANITAR
         item ITEM_NONE
@@ -9288,7 +9288,7 @@ trainerdata 272, "Silver"
         ballseal 0
 
         // mon 5
-        ivs 200
+        ivs 240
         abilityslot 0
         level 54
         pokemon SPECIES_FERALIGATR
@@ -9915,7 +9915,7 @@ trainerdata 288, "Silver"
 
     party 288
         // mon 0
-        ivs 150
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_GOLBAT
@@ -9927,7 +9927,7 @@ trainerdata 288, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_MAGNEZONE
@@ -9939,7 +9939,7 @@ trainerdata 288, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_SLOWKING
@@ -9951,7 +9951,7 @@ trainerdata 288, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 180
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
@@ -9963,7 +9963,7 @@ trainerdata 288, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 150
+        ivs 180
         abilityslot 0
         level 44
         pokemon SPECIES_MEGANIUM
@@ -9989,7 +9989,7 @@ trainerdata 289, "Silver"
 
     party 289
         // mon 0
-        ivs 150
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_GOLBAT
@@ -10001,7 +10001,7 @@ trainerdata 289, "Silver"
         ballseal 0
 
         // mon 1
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_MAGNEZONE
@@ -10013,7 +10013,7 @@ trainerdata 289, "Silver"
         ballseal 0
 
         // mon 2
-        ivs 150
+        ivs 180
         abilityslot 0
         level 42
         pokemon SPECIES_EXEGGUTOR
@@ -10025,7 +10025,7 @@ trainerdata 289, "Silver"
         ballseal 0
 
         // mon 3
-        ivs 180
+        ivs 210
         abilityslot 0
         level 43
         pokemon SPECIES_PUPITAR
@@ -10037,7 +10037,7 @@ trainerdata 289, "Silver"
         ballseal 0
 
         // mon 4
-        ivs 150
+        ivs 180
         abilityslot 0
         level 44
         pokemon SPECIES_TYPHLOSION
