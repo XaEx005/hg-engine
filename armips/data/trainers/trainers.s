@@ -623,7 +623,7 @@ trainerdata 19, "Eusine"
     endparty
 
 trainerdata 20, "Falkner"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY
     trainerclass TRAINERCLASS_LEADER_FALKNER
     nummons 3
     item ITEM_NONE
@@ -637,7 +637,7 @@ trainerdata 20, "Falkner"
     party 20
         // mon 0
         ivs 50
-        abilityslot 0
+        abilityslot 1
         level 11
         pokemon SPECIES_HOOTHOOT
         item ITEM_NONE
@@ -645,11 +645,12 @@ trainerdata 20, "Falkner"
         move MOVE_GROWL
         move MOVE_HYPNOSIS
         move MOVE_NONE
+	    ability ABILITY_INSOMNIA
         ballseal 0
 
         // mon 1
         ivs 50
-        abilityslot 0
+        abilityslot 1
         level 11
         pokemon SPECIES_NATU
         item ITEM_NONE
@@ -657,11 +658,12 @@ trainerdata 20, "Falkner"
         move MOVE_PECK
         move MOVE_NIGHT_SHADE
         move MOVE_CONFUSION
+	    ability ABILITY_SYNCHRONIZE
         ballseal 0
 
         // mon 2
         ivs 40
-        abilityslot 0
+        abilityslot 1
         level 13
         pokemon SPECIES_MURKROW
         item ITEM_NONE
@@ -669,11 +671,12 @@ trainerdata 20, "Falkner"
         move MOVE_ROOST
         move MOVE_PECK
         move MOVE_MUD_SLAP
+	    ability ABILITY_INSOMNIA
         ballseal 0
     endparty
 
 trainerdata 21, "Bugsy"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_BUGSY
     nummons 3
     item ITEM_SUPER_POTION
@@ -687,7 +690,7 @@ trainerdata 21, "Bugsy"
     party 21
         // mon 0
         ivs 80
-        abilityslot 0
+        abilityslot 1
         level 18
         pokemon SPECIES_SPINARAK
         item ITEM_NONE
@@ -695,11 +698,13 @@ trainerdata 21, "Bugsy"
         move MOVE_BUG_BITE
         move MOVE_SHADOW_SNEAK
         move MOVE_SCARY_FACE
+        ability ABILITY_SWARM
+        ball ITEM_NET_BALL
         ballseal 0
 
         // mon 1
         ivs 80
-        abilityslot 0
+        abilityslot 1
         level 18
         pokemon SPECIES_LEDIAN
         item ITEM_NONE
@@ -707,10 +712,12 @@ trainerdata 21, "Bugsy"
         move MOVE_THUNDER_PUNCH
         move MOVE_SUPERSONIC
         move MOVE_AIR_CUTTER
+        ability ABILITY_IRON_FIST
+        ball ITEM_NET_BALL
         ballseal 0
 
         // mon 2
-        ivs 70
+        ivs 80
         abilityslot 1
         level 20
         pokemon SPECIES_HERACROSS
@@ -719,6 +726,8 @@ trainerdata 21, "Bugsy"
         move MOVE_ROCK_THROW
         move MOVE_BUG_BITE
         move MOVE_LEER
+        ability ABILITY_SWARM
+        ball ITEM_NET_BALL
         ballseal 0
     endparty
 
@@ -951,7 +960,7 @@ trainerdata 29, "Rod"
     endparty
 
 trainerdata 30, "Whitney"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_WHITNEY
     nummons 3
     item ITEM_SUPER_POTION
@@ -965,7 +974,7 @@ trainerdata 30, "Whitney"
     party 30
         // mon 0
         ivs 100
-        abilityslot 32
+        abilityslot 0
         level 22
         pokemon SPECIES_TEDDIURSA
         item ITEM_NONE
@@ -973,6 +982,8 @@ trainerdata 30, "Whitney"
         move MOVE_BABY_DOLL_EYES
         move MOVE_ROCK_SMASH
         move MOVE_ATTRACT
+        ability ABILITY_QUICK_FEET
+        ball ITEM_LOVE_BALL
         ballseal 0
 
         // mon 1
@@ -985,11 +996,13 @@ trainerdata 30, "Whitney"
         move MOVE_DOUBLE_HIT
         move MOVE_SAND_ATTACK
         move MOVE_AERIAL_ACE
+        ability ABILITY_RUN_AWAY
+        ball ITEM_LOVE_BALL
         ballseal 0
 
         // mon 2
         ivs 90
-        abilityslot 32
+        abilityslot 0
         level 24
         pokemon SPECIES_MILTANK
         item ITEM_LUM_BERRY
@@ -997,11 +1010,13 @@ trainerdata 30, "Whitney"
         move MOVE_ATTRACT
         move MOVE_STOMP
         move MOVE_MILK_DRINK
+        ability ABILITY_SCRAPPY
+        ball ITEM_LOVE_BALL
         ballseal 0
     endparty
 
 trainerdata 31, "Morty"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_MORTY
     nummons 3
     item ITEM_HYPER_POTION
@@ -1023,6 +1038,8 @@ trainerdata 31, "Morty"
         move MOVE_MEAN_LOOK
         move MOVE_PERISH_SONG
         move MOVE_OMINOUS_WIND
+        ability ABILITY_LEVITATE
+        ball ITEM_DUSK_BALL
         ballseal 0
 
         // mon 1
@@ -1035,23 +1052,27 @@ trainerdata 31, "Morty"
         move MOVE_SCARY_FACE
         move MOVE_TRAILBLAZE
         move MOVE_BULLDOZE
+        ability ABILITY_NATURAL_CURE
+        ball ITEM_DUSK_BALL
         ballseal 0
 
         // mon 2
         ivs 100
-        abilityslot 0
+        abilityslot 1
         level 28
         pokemon SPECIES_GENGAR
         item ITEM_SITRUS_BERRY
         move MOVE_CONFUSE_RAY
         move MOVE_SHADOW_BALL
         move MOVE_MEAN_LOOK
-        move MOVE_SUCKER_PUNCH
+        move MOVE_POISON_TAIL 
+        ability ABILITY_LEVITATE
+        ball ITEM_DUSK_BALL
         ballseal 0
     endparty
 
 trainerdata 32, "Pryce"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_PRYCE
     nummons 5
     item ITEM_HYPER_POTION
@@ -1064,7 +1085,7 @@ trainerdata 32, "Pryce"
 
     party 32
         // mon 0
-        ivs 200
+        ivs 190
         abilityslot 0
         level 40
         pokemon SPECIES_SNEASEL
@@ -1073,11 +1094,13 @@ trainerdata 32, "Pryce"
         move MOVE_NIGHT_SLASH
         move MOVE_ICE_SHARD
         move MOVE_AERIAL_ACE
+        ability ABILITY_INNER_FOCUS
+        ball ITEM_GREAT_BALL
         ballseal 0
 
         // mon 1
-        ivs 200
-        abilityslot 32
+        ivs 190
+        abilityslot 1
         level 40
         pokemon SPECIES_DELIBIRD
         item ITEM_NONE
@@ -1085,23 +1108,27 @@ trainerdata 32, "Pryce"
         move MOVE_SKY_ATTACK
         move MOVE_ICY_WIND
         move MOVE_HAIL
+        ability ABILITY_HUSTLE
+        ball ITEM_GREAT_BALL
         ballseal 0
 
         // mon 2
-        ivs 200
+        ivs 190
         abilityslot 0
         level 40
         pokemon SPECIES_DEWGONG
         item ITEM_NONE
         move MOVE_SURF
+        move MOVE_ICE_BEAM
         move MOVE_ICY_WIND
-        move MOVE_REST
         move MOVE_HAIL
+        ability ABILITY_ICE_BODY
+        ball ITEM_GREAT_BALL
         ballseal 0
 
         // mon 3
-        ivs 200
-        abilityslot 32
+        ivs 190
+        abilityslot 1
         level 42
         pokemon SPECIES_GLALIE
         item ITEM_NONE
@@ -1109,11 +1136,13 @@ trainerdata 32, "Pryce"
         move MOVE_HAIL
         move MOVE_CRUNCH
         move MOVE_BLIZZARD
+        ability ABILITY_ICE_BODY
+        ball ITEM_GREAT_BALL
         ballseal 0
 
         // mon 4
         ivs 220
-        abilityslot 32
+        abilityslot 1
         level 43
         pokemon SPECIES_MAMOSWINE
         item ITEM_SITRUS_BERRY
@@ -1121,11 +1150,13 @@ trainerdata 32, "Pryce"
         move MOVE_AVALANCHE
         move MOVE_EARTHQUAKE
         move MOVE_DOUBLE_TEAM
+        ability ABILITY_SNOW_CLOAK
+        ball ITEM_GREAT_BALL
         ballseal 0
     endparty
 
 trainerdata 33, "Jasmine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_JASMINE
     nummons 4
     item ITEM_HYPER_POTION
@@ -1139,7 +1170,7 @@ trainerdata 33, "Jasmine"
     party 33
         // mon 0
         ivs 150
-        abilityslot 32
+        abilityslot 1
         level 34
         pokemon SPECIES_SKARMORY
         item ITEM_NONE
@@ -1147,11 +1178,13 @@ trainerdata 33, "Jasmine"
         move MOVE_IRON_TAIL
         move MOVE_DRILL_PECK
         move MOVE_SWAGGER
+        ability ABILITY_STURDY
+        ball ITEM_HEAVY_BALL
         ballseal 0
 
         // mon 1
         ivs 150
-        abilityslot 32
+        abilityslot 0
         level 34
         pokemon SPECIES_MAGNEZONE
         item ITEM_NONE
@@ -1159,23 +1192,27 @@ trainerdata 33, "Jasmine"
         move MOVE_FLASH_CANNON
         move MOVE_VOLT_SWITCH
         move MOVE_THUNDER_WAVE
+        ability ABILITY_ANALYTIC
+        ball ITEM_HEAVY_BALL
         ballseal 0
 
         // mon 2
         ivs 150
-        abilityslot 32
+        abilityslot 0
         level 34
         pokemon SPECIES_FORRETRESS
-        item ITEM_NONE
+        item ITEM_SMOOTH_ROCK
         move MOVE_SPIKES
         move MOVE_GYRO_BALL
         move MOVE_SANDSTORM
         move MOVE_ROCK_SLIDE
+        ability ABILITY_STURDY
+        ball ITEM_HEAVY_BALL
         ballseal 0
 
         // mon 3
         ivs 180
-        abilityslot 32
+        abilityslot 0
         level 36
         pokemon SPECIES_STEELIX
         item ITEM_QUICK_CLAW
@@ -1183,11 +1220,13 @@ trainerdata 33, "Jasmine"
         move MOVE_SANDSTORM
         move MOVE_ROCK_SLIDE
         move MOVE_IRON_TAIL
+        ability ABILITY_SHEER_FORCE
+        ball ITEM_HEAVY_BALL
         ballseal 0
     endparty
 
 trainerdata 34, "Chuck"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_CHUCK
     nummons 4
     item ITEM_HYPER_POTION
@@ -1201,7 +1240,7 @@ trainerdata 34, "Chuck"
     party 34
         // mon 0
         ivs 130
-        abilityslot 0
+        abilityslot 1
         level 31
         pokemon SPECIES_PRIMEAPE
         item ITEM_NONE
@@ -1209,11 +1248,13 @@ trainerdata 34, "Chuck"
         move MOVE_BRICK_BREAK
         move MOVE_ASSURANCE
         move MOVE_ROCK_SLIDE
+        ability ABILITY_VITAL_SPIRIT
+        ball ITEM_REPEAT_BALL
         ballseal 0
 
         // mon 1
         ivs 130
-        abilityslot 0
+        abilityslot 1
         level 31
         pokemon SPECIES_POLIWRATH
         item ITEM_NONE
@@ -1221,11 +1262,13 @@ trainerdata 34, "Chuck"
         move MOVE_WATERFALL
         move MOVE_DRAIN_PUNCH
         move MOVE_BULK_UP
+        ability ABILITY_WATER_ABSORB
+        ball ITEM_REPEAT_BALL
         ballseal 0
 
         // mon 2
         ivs 130
-        abilityslot 32
+        abilityslot 1
         level 31
         pokemon SPECIES_HARIYAMA
         item ITEM_NONE
@@ -1233,10 +1276,12 @@ trainerdata 34, "Chuck"
         move MOVE_FORCE_PALM
         move MOVE_PAYBACK
         move MOVE_BULK_UP
+        ability ABILITY_THICK_FAT
+        ball ITEM_REPEAT_BALL
         ballseal 0
 
         // mon 3
-        ivs 110
+        ivs 120
         abilityslot 0
         level 33
         pokemon SPECIES_ANNIHILAPE
@@ -1245,11 +1290,13 @@ trainerdata 34, "Chuck"
         move MOVE_SHADOW_PUNCH
         move MOVE_BULK_UP
         move MOVE_ROCK_SLIDE
+        ability ABILITY_INNER_FOCUS
+        ball ITEM_REPEAT_BALL
         ballseal 0
     endparty
 
 trainerdata 35, "Clair"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_BALL
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_ABILITY
     trainerclass TRAINERCLASS_LEADER_CLAIR
     nummons 5
     item ITEM_FULL_RESTORE
@@ -1271,23 +1318,11 @@ trainerdata 35, "Clair"
         move MOVE_HURRICANE
         move MOVE_EARTHQUAKE
         move MOVE_RAIN_DANCE
+        ability ABILITY_NATURAL_CURE
         ball ITEM_ULTRA_BALL
         ballseal 0
 
         // mon 1
-        ivs 210
-        abilityslot 0
-        level 50
-        pokemon SPECIES_DRAGONITE
-        item ITEM_NONE
-        move MOVE_DRAGON_CLAW
-        move MOVE_HURRICANE
-        move MOVE_FIRE_PUNCH
-        move MOVE_IRON_HEAD
-        ball ITEM_ULTRA_BALL
-        ballseal 0
-
-        // mon 2
         ivs 210
         abilityslot 0
         level 48
@@ -1297,6 +1332,21 @@ trainerdata 35, "Clair"
         move MOVE_EARTHQUAKE
         move MOVE_STONE_EDGE
         move MOVE_U_TURN
+        ability ABILITY_LEVITATE
+        ball ITEM_ULTRA_BALL
+        ballseal 0
+
+        // mon 2
+        ivs 210
+        abilityslot 1
+        level 50
+        pokemon SPECIES_DRAGONITE
+        item ITEM_DAMP_ROCK
+        move MOVE_DRAGON_CLAW
+        move MOVE_HURRICANE
+        move MOVE_RAIN_DANCE
+        move MOVE_IRON_HEAD
+        ability ABILITY_INNER_FOCUS
         ball ITEM_ULTRA_BALL
         ballseal 0
 
@@ -1310,12 +1360,13 @@ trainerdata 35, "Clair"
         move MOVE_ROOST
         move MOVE_FLAMETHROWER
         move MOVE_HYPER_VOICE
+        ability ABILITY_BERSERK
         ball ITEM_ULTRA_BALL
         ballseal 0
 
         // mon 4
         ivs 240
-        abilityslot 32
+        abilityslot 0
         level 51
         pokemon SPECIES_KINGDRA
         item ITEM_WIDE_LENS
@@ -1323,6 +1374,7 @@ trainerdata 35, "Clair"
         move MOVE_HYDRO_PUMP
         move MOVE_ICE_BEAM
         move MOVE_DRAGON_PULSE
+        ability ABILITY_SWIFT_SWIM
         ball ITEM_ULTRA_BALL
         ballseal 0
     endparty
@@ -7426,7 +7478,7 @@ trainerdata 243, "Katie"
     endparty
 
 trainerdata 244, "Lance"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_CHAMPION
     nummons 6
     item ITEM_FULL_RESTORE
@@ -7440,7 +7492,7 @@ trainerdata 244, "Lance"
     party 244
         // mon 0
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 55
         pokemon SPECIES_GYARADOS
         item ITEM_NONE
@@ -7448,11 +7500,13 @@ trainerdata 244, "Lance"
         move MOVE_DRAGON_PULSE
         move MOVE_WATERFALL
         move MOVE_ICE_FANG
+        ability ABILITY_MOXIE
+        ball ITEM_POKE_BALL
         ballseal 0
 
         // mon 1
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 55
         pokemon SPECIES_SALAMENCE
         item ITEM_NONE
@@ -7460,11 +7514,13 @@ trainerdata 244, "Lance"
         move MOVE_IRON_TAIL
         move MOVE_DRAGON_CLAW
         move MOVE_REST
+        ability ABILITY_INTIMIDATE
+        ball ITEM_POKE_BALL
         ballseal 0
 
         // mon 2
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 56
         monwithform SPECIES_EXEGGUTOR, 1
         item ITEM_NONE
@@ -7472,11 +7528,13 @@ trainerdata 244, "Lance"
         move MOVE_WOOD_HAMMER
         move MOVE_ANCIENT_POWER
         move MOVE_PSYSHOCK
+        ability ABILITY_HARVEST
+        ball ITEM_POKE_BALL
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 32
+        abilityslot 1
         level 55
         pokemon SPECIES_AERODACTYL
         item ITEM_NONE
@@ -7484,11 +7542,13 @@ trainerdata 244, "Lance"
         move MOVE_CRUNCH
         move MOVE_ROCK_SLIDE
         move MOVE_THUNDER_FANG
+        ability ABILITY_PRESSURE
+        ball ITEM_POKE_BALL
         ballseal 0
 
         // mon 4
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 55
         pokemon SPECIES_CHARIZARD
         item ITEM_NONE
@@ -7496,11 +7556,13 @@ trainerdata 244, "Lance"
         move MOVE_AIR_SLASH
         move MOVE_DRAGON_CLAW
         move MOVE_FIRE_FANG
+        ability ABILITY_BLAZE
+        ball ITEM_POKE_BALL
         ballseal 0
 
         // mon 5
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 57
         pokemon SPECIES_DRAGONITE
         item ITEM_SITRUS_BERRY
@@ -7508,11 +7570,13 @@ trainerdata 244, "Lance"
         move MOVE_IRON_TAIL
         move MOVE_OUTRAGE
         move MOVE_HYPER_BEAM
+        ability ABILITY_MULTISCALE
+        ball ITEM_POKE_BALL
         ballseal 0
     endparty
 
 trainerdata 245, "Will"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_ELITE_FOUR_WILL
     nummons 5
     item ITEM_FULL_RESTORE
@@ -7534,6 +7598,8 @@ trainerdata 245, "Will"
         move MOVE_PSYCHIC
         move MOVE_CRUNCH
         move MOVE_REFLECT
+        ability ABILITY_SAP_SIPPER
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 1
@@ -7546,11 +7612,13 @@ trainerdata 245, "Will"
         move MOVE_LOVELY_KISS
         move MOVE_ICE_PUNCH
         move MOVE_PSYCHIC
+        ability ABILITY_OBLIVIOUS
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 2
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 52
         pokemon SPECIES_EXEGGUTOR
         item ITEM_NONE
@@ -7558,11 +7626,13 @@ trainerdata 245, "Will"
         move MOVE_HYPNOSIS
         move MOVE_EGG_BOMB
         move MOVE_PSYCHIC
+        ability ABILITY_HARVEST
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 32
+        abilityslot 1
         level 54
         pokemon SPECIES_SLOWKING
         item ITEM_NONE
@@ -7570,11 +7640,13 @@ trainerdata 245, "Will"
         move MOVE_NASTY_PLOT
         move MOVE_WATER_PULSE
         move MOVE_PSYCHIC
+        ability ABILITY_REGENERATOR
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 4
         ivs 250
-        abilityslot 32
+        abilityslot 0
         level 55
         pokemon SPECIES_XATU
         item ITEM_SITRUS_BERRY
@@ -7582,11 +7654,13 @@ trainerdata 245, "Will"
         move MOVE_OMINOUS_WIND
         move MOVE_CONFUSE_RAY
         move MOVE_PSYCHIC
+        ability ABILITY_MAGIC_BOUNCE
+        ball ITEM_LUXURY_BALL
         ballseal 0
     endparty
 
 trainerdata 246, "Karen"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_ELITE_FOUR_KAREN
     nummons 5
     item ITEM_FULL_RESTORE
@@ -7608,11 +7682,13 @@ trainerdata 246, "Karen"
         move MOVE_CONFUSE_RAY
         move MOVE_FEINT_ATTACK
         move MOVE_PAYBACK
+        ability ABILITY_SYNCHRONIZE
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 1
         ivs 250
-        abilityslot 32
+        abilityslot 1
         level 52
         pokemon SPECIES_SHIFTRY
         item ITEM_NONE
@@ -7620,6 +7696,8 @@ trainerdata 246, "Karen"
         move MOVE_LEAF_STORM
         move MOVE_LOW_KICK
         move MOVE_SCARY_FACE
+        ability ABILITY_WIND_RIDER
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 2
@@ -7632,11 +7710,13 @@ trainerdata 246, "Karen"
         move MOVE_ICE_SHARD
         move MOVE_AERIAL_ACE
         move MOVE_ICICLE_CRASH
+        ability ABILITY_PRESSURE
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 32
+        abilityslot 1
         level 54
         pokemon SPECIES_HONCHKROW
         item ITEM_NONE
@@ -7644,6 +7724,8 @@ trainerdata 246, "Karen"
         move MOVE_NIGHT_SHADE
         move MOVE_SUCKER_PUNCH
         move MOVE_SWAGGER
+        ability ABILITY_SUPER_LUCK
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 4
@@ -7656,11 +7738,13 @@ trainerdata 246, "Karen"
         move MOVE_DARK_PULSE
         move MOVE_FLAMETHROWER
         move MOVE_THUNDER_FANG
+        ability ABILITY_FLASH_FIRE
+        ball ITEM_LUXURY_BALL
         ballseal 0
     endparty
 
 trainerdata 247, "Koga"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_ELITE_FOUR_KOGA
     nummons 5
     item ITEM_FULL_RESTORE
@@ -7674,7 +7758,7 @@ trainerdata 247, "Koga"
     party 247
         // mon 0
         ivs 250
-        abilityslot 32
+        abilityslot 0
         level 52
         pokemon SPECIES_ARIADOS
         item ITEM_NONE
@@ -7682,23 +7766,27 @@ trainerdata 247, "Koga"
         move MOVE_SPIDER_WEB
         move MOVE_TOXIC_SPIKES
         move MOVE_GIGA_DRAIN
+        ability ABILITY_SNIPER
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 1
         ivs 220
-        abilityslot 0
+        abilityslot 1
         level 52
         pokemon SPECIES_GENGAR
         item ITEM_NONE
-        move MOVE_SUCKER_PUNCH
+        move MOVE_MEAN_LOOK
         move MOVE_SLUDGE_BOMB
         move MOVE_SHADOW_BALL
         move MOVE_CONFUSE_RAY
+        ability ABILITY_LEVITATE
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 2
         ivs 250
-        abilityslot 32
+        abilityslot 1
         level 54
         pokemon SPECIES_MUK
         item ITEM_NONE
@@ -7706,11 +7794,13 @@ trainerdata 247, "Koga"
         move MOVE_SCREECH
         move MOVE_GUNK_SHOT
         move MOVE_TOXIC
+        ability ABILITY_STENCH
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 52
         pokemon SPECIES_OVERQWIL
         item ITEM_NONE
@@ -7718,11 +7808,13 @@ trainerdata 247, "Koga"
         move MOVE_AQUA_TAIL
         move MOVE_POISON_JAB
         move MOVE_TOXIC_SPIKES
+        ability ABILITY_POISON_POINT
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 4
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 55
         pokemon SPECIES_CROBAT
         item ITEM_SITRUS_BERRY
@@ -7730,6 +7822,8 @@ trainerdata 247, "Koga"
         move MOVE_QUICK_ATTACK
         move MOVE_WING_ATTACK
         move MOVE_POISON_FANG
+        ability ABILITY_INFILTRATOR
+        ball ITEM_LUXURY_BALL
         ballseal 0
     endparty
 
@@ -13915,7 +14009,7 @@ trainerdata 417, "Jenn"
     endparty
 
 trainerdata 418, "Bruno"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_ELITE_FOUR_BRUNO
     nummons 5
     item ITEM_FULL_RESTORE
@@ -13933,10 +14027,12 @@ trainerdata 418, "Bruno"
         level 52
         pokemon SPECIES_HITMONTOP
         item ITEM_NONE
-        move MOVE_COUNTER
-        move MOVE_QUICK_ATTACK
+        move MOVE_MACH_PUNCH
+        move MOVE_TRIPLE_AXEL
         move MOVE_DIG
-        move MOVE_TRIPLE_KICK
+        move MOVE_CLOSE_COMBAT
+        ability ABILITY_TECHNICIAN
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 1
@@ -13945,10 +14041,12 @@ trainerdata 418, "Bruno"
         level 52
         pokemon SPECIES_HITMONLEE
         item ITEM_NONE
-        move MOVE_SWAGGER
+        move MOVE_STONE_EDGE
         move MOVE_FOCUS_ENERGY
         move MOVE_HIGH_JUMP_KICK
-        move MOVE_BLAZE_KICK
+        move MOVE_POISON_JAB
+        ability ABILITY_RECKLESS
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 2
@@ -13958,9 +14056,11 @@ trainerdata 418, "Bruno"
         pokemon SPECIES_HITMONCHAN
         item ITEM_NONE
         move MOVE_THUNDER_PUNCH
-        move MOVE_ICE_PUNCH
-        move MOVE_FIRE_PUNCH
+        move MOVE_SHADOW_PUNCH
+        move MOVE_DRAIN_PUNCH
         move MOVE_BULLET_PUNCH
+        ability ABILITY_IRON_FIST
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 3
@@ -13971,8 +14071,10 @@ trainerdata 418, "Bruno"
         item ITEM_NONE
         move MOVE_CLOSE_COMBAT
         move MOVE_EARTHQUAKE
-        move MOVE_BUG_BITE
-        move MOVE_ROCK_SLIDE
+        move MOVE_MEGAHORN
+        move MOVE_STONE_EDGE
+        ability ABILITY_GUTS
+        ball ITEM_LUXURY_BALL
         ballseal 0
 
         // mon 4
@@ -13981,10 +14083,12 @@ trainerdata 418, "Bruno"
         level 56
         pokemon SPECIES_MACHAMP
         item ITEM_SITRUS_BERRY
-        move MOVE_ROCK_SLIDE
+        move MOVE_STONE_EDGE
         move MOVE_FORESIGHT
-        move MOVE_REVENGE
-        move MOVE_CROSS_CHOP
+        move MOVE_ASSURANCE
+        move MOVE_CLOSE_COMBAT
+        ability ABILITY_STEADFAST
+        ball ITEM_LUXURY_BALL
         ballseal 0
     endparty
 
