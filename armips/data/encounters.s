@@ -3136,57 +3136,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3240,57 +3240,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3344,57 +3344,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3448,57 +3448,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3552,57 +3552,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3656,57 +3656,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3760,57 +3760,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -3864,57 +3864,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -4492,44 +4492,44 @@ walklevels 30, 31, 32, 33, 31, 35, 32, 34, 37, 35, 41, 42
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_SHELLDER
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SHELLDER
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
+pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
 // day encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_SHELLDER
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SHELLDER
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
+pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
 // night encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_SHELLDER
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SHELLDER
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
 pokemon SPECIES_SEEL
 pokemon SPECIES_KINGLER
 pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
+pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
 // hoenn encounter slots
@@ -4537,8 +4537,8 @@ pokemon SPECIES_ABSOL
 pokemon SPECIES_MAKUHITA
 
 // sinnoh encounter slots
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
+pokemon SPECIES_BERGMITE
+pokemon SPECIES_GOOMY
 
 // surf encounters
 encounter SPECIES_HORSEA, 29, 32
@@ -8752,57 +8752,57 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 21, 23, 25, 27, 39, 31, 33, 35, 37, 39, 41, 43
+walklevels 46, 42, 42, 43, 44, 44, 46, 46, 48, 48, 52, 52
 
 // morning encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // day encounter slots
+pokemon SPECIES_RATICATE
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_RATTATA
+monwithform SPECIES_GROWLITHE, 1
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // night encounter slots
+pokemon SPECIES_HAUNTER
 monwithform SPECIES_VOLTORB, 1
 monwithform SPECIES_VOLTORB, 1
+pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
-monwithform SPECIES_VOLTORB, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
+monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 monwithform SPECIES_ELECTRODE, 1
 
 // hoenn encounter slots
-pokemon SPECIES_ZIGZAGOON
-pokemon SPECIES_SPINDA
+pokemon SPECIES_DUSKNOIR
+pokemon SPECIES_SABLEYE
 
 // sinnoh encounter slots
-pokemon SPECIES_CHATOT
-pokemon SPECIES_MEDITITE
+pokemon SPECIES_PETILIL
+monwithform SPECIES_ZORUA, 1
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -11456,10 +11456,10 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 44, 45, 45, 44, 46, 46, 47, 45, 47, 48, 53, 54
+walklevels 47, 49, 49, 46, 48, 48, 49, 48, 50, 50, 55, 54
 
 // morning encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -11473,7 +11473,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // day encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -11487,7 +11487,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // night encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -11501,12 +11501,12 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // hoenn encounter slots
-pokemon SPECIES_ABSOL
-pokemon SPECIES_MAKUHITA
+pokemon SPECIES_SHELGON
+pokemon SPECIES_BELDUM
 
 // sinnoh encounter slots
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
+pokemon SPECIES_GIBLE
+pokemon SPECIES_GABITE
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -13952,10 +13952,10 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 44, 45, 45, 44, 46, 46, 47, 45, 47, 48, 53, 54
+walklevels 47, 49, 49, 46, 48, 48, 49, 48, 50, 50, 55, 54
 
 // morning encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -13969,7 +13969,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // day encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -13983,7 +13983,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // night encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -13997,12 +13997,12 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // hoenn encounter slots
-pokemon SPECIES_ABSOL
-pokemon SPECIES_MAKUHITA
+pokemon SPECIES_SHELGON
+pokemon SPECIES_BELDUM
 
 // sinnoh encounter slots
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
+pokemon SPECIES_GIBLE
+pokemon SPECIES_GABITE
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -14056,10 +14056,10 @@ rocksmashrate 40
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 44, 45, 45, 44, 46, 46, 47, 45, 47, 48, 53, 54
+walklevels 48, 50, 50, 48, 50, 49, 50, 49, 51, 51, 55, 55
 
 // morning encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -14073,7 +14073,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // day encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -14087,7 +14087,7 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // night encounter slots
-pokemon SPECIES_GRAVELER
+pokemon SPECIES_ONIX
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_ONIX
 pokemon SPECIES_DONPHAN
@@ -14101,12 +14101,12 @@ pokemon SPECIES_PUPITAR
 pokemon SPECIES_RHYDON
 
 // hoenn encounter slots
-pokemon SPECIES_ABSOL
-pokemon SPECIES_MAKUHITA
+pokemon SPECIES_SHELGON
+pokemon SPECIES_BELDUM
 
 // sinnoh encounter slots
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
+pokemon SPECIES_GIBLE
+pokemon SPECIES_GABITE
 
 // surf encounters
 encounter SPECIES_NONE, 0, 0
@@ -14116,8 +14116,8 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // rock smash encounters
-encounter SPECIES_GEODUDE, 24, 32
-encounter SPECIES_GRAVELER, 30, 33
+encounter SPECIES_GRAVELER, 47, 49
+encounter SPECIES_BOLDORE, 49, 51
 
 // old rod encounters
 encounter SPECIES_NONE, 0, 0
