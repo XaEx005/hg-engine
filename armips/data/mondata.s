@@ -3207,7 +3207,7 @@ mondata SPECIES_MEW, "Mew"
 
 
 mondata SPECIES_CHIKORITA, "Chikorita"
-    basestats 45, 49, 65, 45, 49, 65
+    basestats 44, 49, 64, 45, 49, 64
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3228,7 +3228,7 @@ mondata SPECIES_CHIKORITA, "Chikorita"
 
 
 mondata SPECIES_BAYLEEF, "Bayleef"
-    basestats 60, 65, 78, 60, 65, 78
+    basestats 60, 66, 78, 60, 63, 78
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3249,7 +3249,7 @@ mondata SPECIES_BAYLEEF, "Bayleef"
 
 
 mondata SPECIES_MEGANIUM, "Meganium"
-    basestats 80, 82, 96, 80, 94, 96
+    basestats 80, 82, 98, 80, 97, 98
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3270,7 +3270,7 @@ mondata SPECIES_MEGANIUM, "Meganium"
 
 
 mondata SPECIES_CYNDAQUIL, "Cyndaquil"
-    basestats 39, 52, 43, 65, 60, 50
+    basestats 40, 52, 44, 68, 61, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3291,7 +3291,7 @@ mondata SPECIES_CYNDAQUIL, "Cyndaquil"
 
 
 mondata SPECIES_QUILAVA, "Quilava"
-    basestats 58, 64, 58, 80, 80, 65
+    basestats 58, 64, 58, 80, 81, 64
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3312,7 +3312,7 @@ mondata SPECIES_QUILAVA, "Quilava"
 
 
 mondata SPECIES_TYPHLOSION, "Typhlosion"
-    basestats 78, 84, 78, 100, 109, 85
+    basestats 78, 84, 78, 100, 109, 86
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3333,7 +3333,7 @@ mondata SPECIES_TYPHLOSION, "Typhlosion"
 
 
 mondata SPECIES_TOTODILE, "Totodile"
-    basestats 50, 65, 64, 43, 44, 48
+    basestats 55, 65, 65, 40, 44, 46
     types TYPE_WATER, TYPE_WATER
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3354,7 +3354,7 @@ mondata SPECIES_TOTODILE, "Totodile"
 
 
 mondata SPECIES_CROCONAW, "Croconaw"
-    basestats 65, 80, 80, 58, 59, 63
+    basestats 66, 80, 80, 55, 60, 64
     types TYPE_WATER, TYPE_WATER
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3375,7 +3375,7 @@ mondata SPECIES_CROCONAW, "Croconaw"
 
 
 mondata SPECIES_FERALIGATR, "Feraligatr"
-    basestats 85, 105, 100, 78, 79, 83
+    basestats 86, 110, 100, 75, 80, 84
     types TYPE_WATER, TYPE_WATER
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3879,7 +3879,7 @@ mondata SPECIES_MARILL, "Marill"
 
 
 mondata SPECIES_AZUMARILL, "Azumarill"
-    basestats 100, 50, 80, 50, 60, 80
+    basestats 100, 50, 80, 50, 50, 80
     types TYPE_WATER, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_WATER
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -4824,7 +4824,7 @@ mondata SPECIES_HOUNDOUR, "Houndour"
 
 
 mondata SPECIES_HOUNDOOM, "Houndoom"
-    basestats 75, 90, 50, 95, 110, 80
+    basestats 75, 90, 70, 95, 110, 80
     types TYPE_DARK, TYPE_FIRE
     catchrate 45
     baseexp 0 // defined in baseexp.s

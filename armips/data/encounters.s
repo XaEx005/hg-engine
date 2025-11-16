@@ -2928,49 +2928,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 17, 17, 20, 19, 19, 18, 17, 19, 18, 19, 23, 23
+walklevels 17, 19, 21, 18, 18, 20, 20, 19, 21, 21, 25, 25
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
-pokemon SPECIES_GASTLY
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
 
 // day encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
-pokemon SPECIES_GASTLY
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
 
 // night encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
 pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
+pokemon SPECIES_GASTLY
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_HAUNTER
 
 // hoenn encounter slots
 pokemon SPECIES_SHUPPET
@@ -3032,49 +3032,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 17, 17, 20, 19, 19, 18, 17, 19, 18, 19, 23, 23
+walklevels 17, 19, 21, 18, 18, 20, 20, 19, 21, 21, 25, 25
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
-pokemon SPECIES_GASTLY
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
 
 // day encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_RATTATA
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
-pokemon SPECIES_GASTLY
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_ZUBAT
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MISDREAVUS
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
 
 // night encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
+pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATICATE
 pokemon SPECIES_KOFFING
 pokemon SPECIES_GASTLY
+pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_KOFFING
+pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_MAGBY
+pokemon SPECIES_GASTLY
 monwithform SPECIES_GROWLITHE, 1
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MISDREAVUS
+pokemon SPECIES_HAUNTER
 
 // hoenn encounter slots
 pokemon SPECIES_SHUPPET
@@ -3968,7 +3968,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 19, 19, 20, 21, 18, 20, 20, 21, 18, 19, 23, 22
+walklevels 20, 20, 21, 22, 20, 22, 21, 23, 21, 23, 25, 26
 
 // morning encounter slots
 pokemon SPECIES_SKITTY
@@ -4072,7 +4072,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 21, 21, 22, 23, 23, 22, 23, 21, 21, 23, 26, 27
+walklevels 21, 22, 23, 24, 25, 22, 24, 23, 24, 25, 28, 28
 
 // morning encounter slots
 pokemon SPECIES_MARILL
@@ -4333,11 +4333,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 22, 24
-encounter SPECIES_CHINCHOU, 23, 25
-encounter SPECIES_TENTACRUEL, 25, 26
-encounter SPECIES_TENTACRUEL, 26, 27
-encounter SPECIES_TENTACRUEL, 28, 29
+encounter SPECIES_TENTACOOL, 24, 26
+encounter SPECIES_CHINCHOU, 25, 27
+encounter SPECIES_TENTACRUEL, 27, 28
+encounter SPECIES_TENTACRUEL, 29, 30
+encounter SPECIES_TENTACRUEL, 31, 32
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4437,11 +4437,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 23, 24
-encounter SPECIES_TENTACRUEL, 25, 27
-encounter SPECIES_MANTYKE, 23, 24
-encounter SPECIES_MANTINE, 25, 26
+encounter SPECIES_TENTACOOL, 26, 27
+encounter SPECIES_TENTACRUEL, 28, 29
+encounter SPECIES_MANTYKE, 25, 26
 encounter SPECIES_MANTINE, 28, 30
+encounter SPECIES_MANTINE, 31, 32
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
