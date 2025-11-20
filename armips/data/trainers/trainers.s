@@ -9190,7 +9190,6 @@ trainerdata 270, "Silver"
         abilityslot 0
         level 23
         pokemon SPECIES_GASTLY
-        item ITEM_NONE
         move MOVE_CLEAR_SMOG
         move MOVE_HEX
         move MOVE_MEAN_LOOK

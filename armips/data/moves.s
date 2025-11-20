@@ -6427,13 +6427,13 @@ movedata MOVE_NIGHT_SLASH, "Night Slash"
     movedescription MOVE_NIGHT_SLASH, "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio."
 
 movedata MOVE_AQUA_TAIL, "Aqua Tail"
-    battleeffect MOVE_EFFECT_HIT
+    battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
-    basepower 95
+    basepower 90
     type TYPE_WATER
     accuracy 95
     pp 10
-    effectchance 0
+    effectchance 10
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
@@ -6591,7 +6591,7 @@ movedata MOVE_FOCUS_BLAST, "Focus Blast"
     pss SPLIT_SPECIAL
     basepower 120
     type TYPE_FIGHTING
-    accuracy 75
+    accuracy 70
     pp 5
     effectchance 10
     target RANGE_SINGLE_TARGET

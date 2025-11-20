@@ -4280,7 +4280,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 23, 23, 25, 26, 24, 25, 24, 26, 26, 25, 31, 30
+walklevels 24, 23, 26, 27, 25, 25, 25, 27, 27, 26, 31, 30
 
 // morning encounter slots
 pokemon SPECIES_EXEGGCUTE
