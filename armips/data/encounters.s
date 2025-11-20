@@ -4274,55 +4274,55 @@ pokemon SPECIES_MAGIKARP
 
 encounterdata  41   // Route 40
 
-walkrate 0
+walkrate 25
 surfrate 10
 rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+walklevels 23, 23, 25, 26, 24, 25, 24, 26, 26, 25, 31, 30
 
 // morning encounter slots
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_NATU
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_NATU
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
 
 // day encounter slots
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_NATU
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_NATU
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
 
 // night encounter slots
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
-pokemon SPECIES_NONE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_NATU
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_EXEGGCUTE
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_NATU
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_MEDITITE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
+pokemon SPECIES_TROPIUS
+pokemon SPECIES_SHUCKLE
 
 // hoenn encounter slots
 pokemon SPECIES_NONE

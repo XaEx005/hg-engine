@@ -6429,9 +6429,9 @@ movedata MOVE_NIGHT_SLASH, "Night Slash"
 movedata MOVE_AQUA_TAIL, "Aqua Tail"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
-    basepower 90
+    basepower 95
     type TYPE_WATER
-    accuracy 90
+    accuracy 95
     pp 10
     effectchance 0
     target RANGE_SINGLE_TARGET
@@ -6591,7 +6591,7 @@ movedata MOVE_FOCUS_BLAST, "Focus Blast"
     pss SPLIT_SPECIAL
     basepower 120
     type TYPE_FIGHTING
-    accuracy 70
+    accuracy 75
     pp 5
     effectchance 10
     target RANGE_SINGLE_TARGET
