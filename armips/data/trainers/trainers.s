@@ -713,7 +713,7 @@ trainerdata 21, "Bugsy"
         item ITEM_NONE
         move MOVE_SILVER_WIND
         move MOVE_THUNDER_PUNCH
-        move MOVE_SUPERSONIC
+        move MOVE_RAIN_DANCE
         move MOVE_AIR_CUTTER
         ability ABILITY_IRON_FIST
         ball ITEM_NET_BALL
