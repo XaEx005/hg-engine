@@ -960,7 +960,7 @@ mondata SPECIES_GLOOM, "Gloom"
 
 
 mondata SPECIES_VILEPLUME, "Vileplume"
-    basestats 75, 80, 85, 50, 110, 90
+    basestats 75, 70, 85, 60, 120, 90
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -971,7 +971,7 @@ mondata SPECIES_VILEPLUME, "Vileplume"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_GRASS, EGG_GROUP_GRASS
-    abilities ABILITY_CHLOROPHYLL, ABILITY_NONE
+    abilities ABILITY_EFFECT_SPORE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_RED, 0
     mondexentry SPECIES_VILEPLUME, "It has the world’s largest petals.\nWith every step, the petals shake\nout heavy clouds of toxic pollen."
@@ -2010,7 +2010,7 @@ mondata SPECIES_GENGAR, "Gengar"
 
 
 mondata SPECIES_ONIX, "Onix"
-    basestats 45, 65, 160, 70, 30, 45
+    basestats 65, 70, 140, 60, 30, 55
     types TYPE_ROCK, TYPE_GROUND
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -2021,7 +2021,7 @@ mondata SPECIES_ONIX, "Onix"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_MINERAL, EGG_GROUP_MINERAL
-    abilities ABILITY_ROCK_HEAD, ABILITY_STURDY
+    abilities ABILITY_STURDY, ABILITY_SOLID_ROCK
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_ONIX, "It twists and squirms through\nthe ground. The thunderous roar of\nits tunneling echoes a long way."
@@ -3837,7 +3837,7 @@ mondata SPECIES_AMPHAROS, "Ampharos"
 
 
 mondata SPECIES_BELLOSSOM, "Bellossom"
-    basestats 75, 80, 95, 50, 90, 100
+    basestats 75, 60, 100, 65, 90, 110
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3848,7 +3848,7 @@ mondata SPECIES_BELLOSSOM, "Bellossom"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_GRASS, EGG_GROUP_GRASS
-    abilities ABILITY_CHLOROPHYLL, ABILITY_NONE
+    abilities ABILITY_POISON_HEAL, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_BELLOSSOM, "BELLOSSOM gather at times and seem\nto dance. They say that the dance\nis a ritual to summon the sun."
@@ -4383,7 +4383,7 @@ mondata SPECIES_GLIGAR, "Gligar"
 
 
 mondata SPECIES_STEELIX, "Steelix"
-    basestats 85, 105, 200, 30, 55, 65
+    basestats 85, 105, 200, 30, 45, 75
     types TYPE_STEEL, TYPE_GROUND
     catchrate 25
     baseexp 0 // defined in baseexp.s
@@ -4394,7 +4394,7 @@ mondata SPECIES_STEELIX, "Steelix"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_MINERAL, EGG_GROUP_MINERAL
-    abilities ABILITY_ROCK_HEAD, ABILITY_STURDY
+    abilities ABILITY_STURDY, ABILITY_SOLID_ROCK
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_STEELIX, "Its body has been compressed deep\nunder the ground. As a result,\nit is even harder than a diamond."

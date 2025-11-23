@@ -7870,6 +7870,10 @@
       },
       {
         "Level": 1,
+        "Move": "MOVE_DARK_PULSE"
+      },
+      {
+        "Level": 1,
         "Move": "MOVE_MOONBLAST"
       }
     ],
@@ -7884,6 +7888,7 @@
       "MOVE_CONFIDE",
       "MOVE_CURSE",
       "MOVE_CUT",
+      "MOVE_DARK_PULSE",
       "MOVE_DAZZLING_GLEAM",
       "MOVE_DOUBLE_EDGE",
       "MOVE_DOUBLE_TEAM",
@@ -16810,32 +16815,36 @@
         "Move": "MOVE_ROCK_SLIDE"
       },
       {
-        "Level": 31,
+        "Level": 30,
         "Move": "MOVE_SCREECH"
       },
       {
-        "Level": 34,
+        "Level": 33,
         "Move": "MOVE_STEALTH_ROCK"
       },
       {
-        "Level": 37,
+        "Level": 36,
         "Move": "MOVE_IRON_TAIL"
       },
       {
-        "Level": 42,
+        "Level": 40,
+        "Move": "MOVE_DRAGON_HAMMER"
+      },
+      {
+        "Level": 44,
         "Move": "MOVE_STONE_EDGE"
       },
       {
-        "Level": 46,
+        "Level": 48,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
-        "Level": 50,
-        "Move": "MOVE_IRON_DEFENSE"
+        "Level": 52,
+        "Move": "MOVE_ROCK_WRECKER"
       },
       {
-        "Level": 54,
-        "Move": "MOVE_IRON_HEAD"
+        "Level": 56,
+        "Move": "MOVE_OUTRAGE"
       },
       {
         "Level": 60,
@@ -32265,6 +32274,10 @@
       },
       {
         "Level": 1,
+        "Move": "MOVE_WISH"
+      },
+      {
+        "Level": 1,
         "Move": "MOVE_PECK"
       },
       {
@@ -32313,7 +32326,7 @@
       },
       {
         "Level": 32,
-        "Move": "MOVE_WISH"
+        "Move": "MOVE_COSMIC_POWER"
       },
       {
         "Level": 36,
@@ -32332,8 +32345,12 @@
         "Move": "MOVE_TAILWIND"
       },
       {
-        "Level": 52,
-        "Move": "MOVE_CALM_MIND"
+        "Level": 54,
+        "Move": "MOVE_HURRICANE"
+      },
+      {
+        "Level": 62,
+        "Move": "MOVE_PSYCHIC_TERRAIN"
       }
     ],
     "MachineMoves": [
@@ -33062,6 +33079,10 @@
       {
         "Level": 1,
         "Move": "MOVE_GRASSY_TERRAIN"
+      },
+      {
+        "Level": 1,
+        "Move": "MOVE_POLLEN_PUFF"
       },
       {
         "Level": 1,
@@ -37709,23 +37730,27 @@
         "Move": "MOVE_ROCK_SLIDE"
       },
       {
-        "Level": 31,
+        "Level": 30,
         "Move": "MOVE_SCREECH"
       },
       {
-        "Level": 34,
+        "Level": 33,
         "Move": "MOVE_STEALTH_ROCK"
       },
       {
-        "Level": 37,
+        "Level": 36,
         "Move": "MOVE_IRON_TAIL"
       },
       {
-        "Level": 42,
+        "Level": 40,
+        "Move": "MOVE_DRAGON_HAMMER"
+      },
+      {
+        "Level": 44,
         "Move": "MOVE_STONE_EDGE"
       },
       {
-        "Level": 46,
+        "Level": 48,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
@@ -37739,6 +37764,10 @@
       {
         "Level": 60,
         "Move": "MOVE_BODY_PRESS"
+      },
+      {
+        "Level": 66,
+        "Move": "MOVE_OUTRAGE"
       }
     ],
     "MachineMoves": [
@@ -41130,31 +41159,31 @@
         "Move": "MOVE_WING_ATTACK"
       },
       {
-        "Level": 22,
-        "Move": "MOVE_SLASH"
+        "Level": 23,
+        "Move": "MOVE_NIGHT_SLASH"
       },
       {
-        "Level": 26,
+        "Level": 27,
         "Move": "MOVE_STEEL_WING"
       },
       {
-        "Level": 30,
-        "Move": "MOVE_PAYBACK"
-      },
-      {
-        "Level": 34,
+        "Level": 32,
         "Move": "MOVE_DRILL_PECK"
       },
       {
-        "Level": 37,
+        "Level": 35,
         "Move": "MOVE_METAL_SOUND"
       },
       {
-        "Level": 39,
+        "Level": 38,
+        "Move": "MOVE_DRILL_RUN"
+      },
+      {
+        "Level": 41,
         "Move": "MOVE_SPIKES"
       },
       {
-        "Level": 43,
+        "Level": 44,
         "Move": "MOVE_IRON_HEAD"
       },
       {
