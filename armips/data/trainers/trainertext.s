@@ -862,9 +862,9 @@ _0734: // Trainer 316
     trainertextentry 316, TEXT_DEFEATED_IN_OVERWORLD, "...\rI lost while I had my eyes closed...\n"
 
 _0740: // Trainer 317
-    trainertextentry 317, TEXT_NOTICE_IN_OVERWORLD, "I can see it...\nEverything there is to see about you...\r"
-    trainertextentry 317, TEXT_DEFEATED_IN_BATTLE, "I couldn’t foresee your power...\n"
-    trainertextentry 317, TEXT_DEFEATED_IN_OVERWORLD, "Strength in conviction...\rYou’re strong because you believe in\nyour Pokémon.\n"
+    trainertextentry 317, TEXT_NOTICE_IN_OVERWORLD, "I can see that you are\nsparking like a thunder!\r"
+    trainertextentry 317, TEXT_DEFEATED_IN_BATTLE, "WOAW!\n"
+    trainertextentry 317, TEXT_DEFEATED_IN_OVERWORLD, "Strength is like electricity!\n"
 
 _074C: // Trainer 380
     trainertextentry 380, TEXT_NOTICE_IN_OVERWORLD, "There’s no cheating with Pokémon.\nLet’s keep it fair and square!\r"
@@ -883,9 +883,9 @@ _0764: // Trainer 59
     trainertextentry  59, TEXT_REMATCH_IN_OVERWORLD, "Ooooh! You did remember it!\r"
 
 _0774: // Trainer 320
-    trainertextentry 320, TEXT_NOTICE_IN_OVERWORLD, "Patience is the key to both fishing and\nPokémon.\r"
+    trainertextentry 320, TEXT_NOTICE_IN_OVERWORLD, "Patience is the key to both\nmeditating and Pokémon.\r"
     trainertextentry 320, TEXT_DEFEATED_IN_BATTLE, "Patience!\n"
-    trainertextentry 320, TEXT_DEFEATED_IN_OVERWORLD, "I’m too impatient for fishing...\n"
+    trainertextentry 320, TEXT_DEFEATED_IN_OVERWORLD, "I’m still too impatient...\n"
 
 _0780: // Trainer 321
     trainertextentry 321, TEXT_NOTICE_IN_OVERWORLD, "I feel so content, fishing while listening\nto some tunes on my radio.\r"
@@ -1429,7 +1429,7 @@ _0CB0: // Trainer 96
     trainertextentry  96, TEXT_DEFEATED_IN_OVERWORLD, "It’s so far to Cianwood. But it’s no\neasy return trip to Olivine either.\fWhat should I do?\n"
 
 _0CBC: // Trainer 97
-    trainertextentry  97, TEXT_NOTICE_IN_OVERWORLD, "See those islands that are blocked\nby whirlpools?\fThere just has to be a secret!\r"
+    trainertextentry  97, TEXT_NOTICE_IN_OVERWORLD, "See these islands that are blocked\nby whirlpools?\fThere just has to be a secret!\r"
     trainertextentry  97, TEXT_DEFEATED_IN_BATTLE, "What’s the secret to your strength?\n"
     trainertextentry  97, TEXT_DEFEATED_IN_OVERWORLD, "It was a dark and stormy night...\rI saw this giant Pokémon flying from\nthe Whirl Islands.\rFeathers were scattering from its\nsilver wings.\n"
 
@@ -1454,9 +1454,9 @@ _0CEC: // Trainer 91
     trainertextentry  91, TEXT_DEFEATED_IN_OVERWORLD, "Wasn’t there a hit song about a boy\nriding a LAPRAS?\n"
 
 _0CF8: // Trainer 92
-    trainertextentry  92, TEXT_NOTICE_IN_OVERWORLD, "The weather is so beautiful, I’m in\na daze!\r"
+    trainertextentry  92, TEXT_NOTICE_IN_OVERWORLD, "The sun is so bright outside!\r"
     trainertextentry  92, TEXT_DEFEATED_IN_BATTLE, "Ohhh!\n"
-    trainertextentry  92, TEXT_DEFEATED_IN_OVERWORLD, "A sunburn is the worst for skin.\rBut I don’t use sunblock.\nI won’t pollute the water.\n"
+    trainertextentry  92, TEXT_DEFEATED_IN_OVERWORLD, "Plants love the sunlight,\nbut a sunburn is the worst for skin.\rThat's why I'm in a cave.\n"
 
 _0D04: // Trainer 93
     trainertextentry  93, TEXT_NOTICE_IN_OVERWORLD, "If you need to rest, just tread water.\nYou’ll get your breath back so you can\fkeep on going strong.\r"

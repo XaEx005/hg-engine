@@ -4335,9 +4335,9 @@ pokemon SPECIES_NONE
 // surf encounters
 encounter SPECIES_TENTACOOL, 24, 26
 encounter SPECIES_CHINCHOU, 25, 27
-encounter SPECIES_TENTACRUEL, 27, 28
-encounter SPECIES_TENTACRUEL, 29, 30
-encounter SPECIES_TENTACRUEL, 31, 32
+encounter SPECIES_STARYU, 26, 26
+encounter SPECIES_TENTACRUEL, 29, 29
+encounter SPECIES_TENTACRUEL, 30, 31
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4437,9 +4437,9 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_TENTACOOL, 26, 27
-encounter SPECIES_TENTACRUEL, 28, 29
-encounter SPECIES_MANTYKE, 25, 26
+encounter SPECIES_TENTACOOL, 26, 26
+encounter SPECIES_TENTACRUEL, 27, 28
+encounter SPECIES_MANTYKE, 25, 27
 encounter SPECIES_MANTINE, 28, 30
 encounter SPECIES_MANTINE, 31, 32
 
@@ -4488,47 +4488,47 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 30, 31, 32, 33, 31, 35, 32, 34, 37, 35, 41, 42
+walklevels 25, 25, 27, 27, 26, 26, 28, 28, 27, 29, 31, 32
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
-pokemon SPECIES_GOLBAT
+pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_SHELLDER
-pokemon SPECIES_KINGLER
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
-// day encounter slots
-pokemon SPECIES_KRABBY
-pokemon SPECIES_GOLBAT
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
+pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KINGLER
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
-// night encounter slots
-pokemon SPECIES_KRABBY
-pokemon SPECIES_GOLBAT
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
+pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KINGLER
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
 pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
 pokemon SPECIES_DEWGONG
 
@@ -4541,11 +4541,11 @@ pokemon SPECIES_BERGMITE
 pokemon SPECIES_GOOMY
 
 // surf encounters
-encounter SPECIES_HORSEA, 29, 32
-encounterwithform SPECIES_BASCULIN, 1, 31, 34
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
-encounter SPECIES_TENTACRUEL, 15, 25
+encounter SPECIES_HORSEA, 26, 28
+encounterwithform SPECIES_BASCULIN, 1, 26, 28
+encounter SPECIES_STARYU, 26, 28
+encounter SPECIES_TENTACRUEL, 27, 29
+encounter SPECIES_TENTACRUEL, 31, 31
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4592,48 +4592,48 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 30, 31, 32, 33, 31, 35, 32, 34, 37, 35, 41, 42
+walklevels 25, 25, 27, 27, 26, 26, 28, 28, 27, 29, 31, 32
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// day encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// night encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
 // hoenn encounter slots
@@ -4800,48 +4800,48 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 30, 31, 32, 33, 31, 35, 32, 34, 37, 35, 41, 42
+walklevels 25, 25, 27, 27, 26, 26, 28, 28, 27, 29, 31, 32
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// day encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// night encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
 // hoenn encounter slots
@@ -4853,11 +4853,11 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_CHINGLING
 
 // surf encounters
-encounter SPECIES_HORSEA, 30, 31
-encounterwithform SPECIES_BASCULIN, 1, 32, 35
-encounter SPECIES_SEADRA, 32, 34
-encounter SPECIES_SEADRA, 35, 36
-encounter SPECIES_SEADRA, 39, 40
+encounter SPECIES_HORSEA, 26, 28
+encounterwithform SPECIES_BASCULIN, 1, 26, 28
+encounter SPECIES_STARYU, 26, 28
+encounter SPECIES_TENTACRUEL, 27, 29
+encounter SPECIES_TENTACRUEL, 31, 31
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -5002,54 +5002,54 @@ pokemon SPECIES_NONE
 
 encounterdata  48   // Whirl Islands B3F (Ledge overlooking Lugia room)
 
-walkrate 5
+walkrate 0
 surfrate 0
 rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 30, 31, 32, 33, 31, 35, 32, 34, 37, 35, 41, 42
+walklevels 25, 25, 27, 27, 26, 26, 28, 28, 27, 29, 31, 32
 
 // morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// day encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
-// night encounter slots
+// morning encounter slots
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
 pokemon SPECIES_KRABBY
 pokemon SPECIES_SHELLDER
-pokemon SPECIES_KRABBY
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_SPOINK
+pokemon SPECIES_SEEL
+pokemon SPECIES_CORSOLA
+pokemon SPECIES_CORSOLA
 pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_KINGLER
-pokemon SPECIES_SEEL
-pokemon SPECIES_HORSEA
 pokemon SPECIES_DEWGONG
 
 // hoenn encounter slots
