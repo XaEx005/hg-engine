@@ -2096,7 +2096,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 11, 11, 13, 13, 12, 14, 15, 14, 14, 14, 18, 20
+walklevels 11, 11, 13, 13, 12, 14, 15, 14, 14, 14, 18, 19
 
 // morning encounter slots
 pokemon SPECIES_CATERPIE
@@ -2200,7 +2200,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 13, 13, 14, 14, 15, 14, 15, 14, 16, 15, 19, 19
+walklevels 13, 13, 15, 15, 16, 14, 16, 14, 16, 15, 19, 19
 
 // morning encounter slots
 pokemon SPECIES_DROWZEE
