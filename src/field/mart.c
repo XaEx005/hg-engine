@@ -47,8 +47,7 @@ const struct BadgeMartItems sBadgeMart[] = {
     { ITEM_LEAF_STONE,     5 },
     { ITEM_ICE_STONE,      5 },
     { ITEM_LINKING_CORD,   5 },
-    { ITEM_DUSK_STONE,     7 },
-    { ITEM_SHINY_STONE,    7 },
+    { ITEM_ABILITY_PATCH,  7 },
 };
 
 void LONG_CALL InitMartUI(void *taskManager, FieldSystem *fieldSystem, const u16 *items, int kind, int buySell, int decoWhich, const struct MartItem *priceOverrides);
@@ -82,7 +81,7 @@ u16 sGoldenrodDepartmentLower2F[] = {
 };
 
 u16 sGoldenrodDepartment3F[] = {
-    ITEM_ABILITY_CAPSULE, ITEM_BLACK_BELT, ITEM_EXPERT_BELT, ITEM_FOCUS_SASH, 
+   ITEM_ABILITY_CAPSULE, ITEM_BLACK_BELT, ITEM_EXPERT_BELT, ITEM_FOCUS_SASH, 
     0xFFFF
 };
 
@@ -128,7 +127,9 @@ u16 sBlackthornAndBattleFrontierMart[] = {
 };
 
 u16 sIndigoPlateau[] = {
-    ITEM_MAX_REPEL, ITEM_FULL_RESTORE, ITEM_MAX_REVIVE, 0xFFFF
+    ITEM_MAX_REPEL, ITEM_ULTRA_BALL, ITEM_MAX_POTION,
+    ITEM_FULL_RESTORE, ITEM_REVIVE, ITEM_ELISIR, ITEM_ETHER,
+    0xFFFF
 };
 
 u16 sVermilionAndSafariMart[] = {
@@ -197,8 +198,7 @@ u16 sMahoganyPostRocketHideout[] = {
     ITEM_MAX_REPEL, ITEM_REVIVE, ITEM_ULTRA_BALL, ITEM_DUSK_BALL,
     ITEM_ESCAPE_ROPE, ITEM_SUPER_REPEL, ITEM_MAX_REPEL, ITEM_DUSK_STONE,
     ITEM_SHINY_STONE, ITEM_LINKING_CORD, ITEM_METAL_COAT, ITEM_BLACK_AUGURITE, 
-    ITEM_RAZOR_CLAW, ITEM_RAZOR_FANG, ITEM_PEAT_BLOCK, ITEM_OVAL_STONE, 
-    ITEM_STRANGE_SOUVENIR, 0xFFFF
+    ITEM_PEAT_BLOCK, ITEM_UPGRADE, ITEM_STRANGE_SOUVENIR, 0xFFFF
 };
 
 BOOL ScrCmd_MartBuy(SCRIPTCONTEXT *ctx) {

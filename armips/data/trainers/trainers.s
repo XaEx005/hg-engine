@@ -1596,8 +1596,8 @@ trainerdata 41, "Clyde"
 
 trainerdata 42, "Nathan"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PSYCHIC_M
-    nummons 1
+    trainerclass TRAINERCLASS_RUIN_MANIAC
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -1609,9 +1609,16 @@ trainerdata 42, "Nathan"
     party 42
         // mon 0
         ivs 0
-        abilityslot 0
-        level 26
-        pokemon SPECIES_GIRAFARIG
+        abilityslot 1
+        level 9
+        pokemon SPECIES_OMANYTE
+        ballseal 0
+
+        // mon 1
+        ivs 0
+        abilityslot 1
+        level 9
+        pokemon SPECIES_KABUTO
         ballseal 0
     endparty
 
@@ -5131,17 +5138,17 @@ trainerdata 158, "Kiyo"
 
     party 158
         // mon 0
-        ivs 100
-        abilityslot 32
-        level 34
-        pokemon SPECIES_HITMONLEE
+        ivs 200
+        abilityslot 0
+        level 52
+        pokemon SPECIES_MEDICHAM
         ballseal 0
 
         // mon 1
-        ivs 100
-        abilityslot 32
-        level 34
-        pokemon SPECIES_HITMONCHAN
+        ivs 250
+        abilityslot 1
+        level 54
+        pokemon SPECIES_LUCARIO
         ballseal 0
     endparty
 
@@ -18342,9 +18349,9 @@ trainerdata 537, "Harrison"
     endparty
 
 trainerdata 538, "Hugh"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_SUPER_NERD
-    nummons 1
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -18355,14 +18362,24 @@ trainerdata 538, "Hugh"
 
     party 538
         // mon 0
-        ivs 0
-        abilityslot 0
+        ivs 150
+        abilityslot 1
         level 45
-        pokemon SPECIES_KINGDRA
-        move MOVE_SMOKESCREEN
-        move MOVE_TWISTER
-        move MOVE_SURF
-        move MOVE_WATERFALL
+        pokemon SPECIES_PORYGON
+        ballseal 0
+
+        // mon 1
+        ivs 200
+        abilityslot 1
+        level 50
+        pokemon SPECIES_PORYGON2
+        ballseal 0
+
+        // mon 2
+        ivs 250
+        abilityslot 1
+        level 55
+        pokemon SPECIES_PORYGON_Z
         ballseal 0
     endparty
 

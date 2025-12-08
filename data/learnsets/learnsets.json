@@ -41988,7 +41988,7 @@
         "Move": "MOVE_LAST_RESORT"
       },
       {
-        "Level": 42,
+        "Level": 41,
         "Move": "MOVE_DOUBLE_EDGE"
       }
     ],
@@ -42101,7 +42101,7 @@
     "LevelMoves": [
       {
         "Level": 0,
-        "Move": "MOVE_FURY_ATTACK"
+        "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
         "Level": 1,
@@ -42148,19 +42148,19 @@
         "Move": "MOVE_SLAM"
       },
       {
-        "Level": 30,
-        "Move": "MOVE_STOMPING_TANTRUM"
-      },
-      {
-        "Level": 37,
+        "Level": 36,
         "Move": "MOVE_SCARY_FACE"
       },
       {
-        "Level": 43,
+        "Level": 41,
         "Move": "MOVE_EARTHQUAKE"
       },
       {
-        "Level": 50,
+        "Level": 47,
+        "Move": "MOVE_DOUBLE_EDGE"
+      },
+      {
+        "Level": 54,
         "Move": "MOVE_GIGA_IMPACT"
       }
     ],
