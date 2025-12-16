@@ -1037,10 +1037,10 @@ trainerdata 31, "Morty"
         level 26
         pokemon SPECIES_MISDREAVUS
         item ITEM_NONE
-        move MOVE_PSYBEAM
+        move MOVE_CHARM
         move MOVE_MEAN_LOOK
         move MOVE_PERISH_SONG
-        move MOVE_OMINOUS_WIND
+        move MOVE_SHADOW_BALL
         ability ABILITY_LEVITATE
         ball ITEM_DUSK_BALL
         ballseal 0
@@ -1077,7 +1077,7 @@ trainerdata 31, "Morty"
 trainerdata 32, "Pryce"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL
     trainerclass TRAINERCLASS_LEADER_PRYCE
-    nummons 5
+    nummons 4
     item ITEM_HYPER_POTION
     item ITEM_FULL_RESTORE
     item ITEM_NONE
@@ -1105,13 +1105,13 @@ trainerdata 32, "Pryce"
         ivs 190
         abilityslot 1
         level 40
-        pokemon SPECIES_DELIBIRD
-        item ITEM_NONE
-        move MOVE_ROLLOUT
-        move MOVE_SKY_ATTACK
-        move MOVE_ICY_WIND
+        pokemon SPECIES_GLALIE
+        item ITEM_ICY_ROCK
+        move MOVE_BLIZZARD
+        move MOVE_LIGHT_SCREEN
+        move MOVE_EARTHQUAKE
         move MOVE_HAIL
-        ability ABILITY_HUSTLE
+        ability ABILITY_ICE_BODY
         ball ITEM_GREAT_BALL
         ballseal 0
 
@@ -1119,34 +1119,20 @@ trainerdata 32, "Pryce"
         ivs 190
         abilityslot 0
         level 40
-        pokemon SPECIES_DEWGONG
+        pokemon SPECIES_LAPRAS
         item ITEM_NONE
         move MOVE_SURF
-        move MOVE_ICE_BEAM
-        move MOVE_ICY_WIND
-        move MOVE_HAIL
-        ability ABILITY_ICE_BODY
+        move MOVE_AVALANCHE
+        move MOVE_PERISH_SONG
+        move MOVE_SING
+        ability ABILITY_SHELL_ARMOR
         ball ITEM_GREAT_BALL
         ballseal 0
 
         // mon 3
-        ivs 190
-        abilityslot 1
-        level 41
-        pokemon SPECIES_GLALIE
-        item ITEM_NONE
-        move MOVE_FROST_BREATH
-        move MOVE_HAIL
-        move MOVE_CRUNCH
-        move MOVE_BLIZZARD
-        ability ABILITY_ICE_BODY
-        ball ITEM_GREAT_BALL
-        ballseal 0
-
-        // mon 4
         ivs 220
         abilityslot 1
-        level 43
+        level 42
         pokemon SPECIES_MAMOSWINE
         item ITEM_SITRUS_BERRY
         move MOVE_ICE_SHARD
@@ -1189,8 +1175,8 @@ trainerdata 33, "Jasmine"
         ivs 150
         abilityslot 0
         level 34
-        pokemon SPECIES_MAGNEZONE
-        item ITEM_NONE
+        pokemon SPECIES_MAGNETON
+        item ITEM_EVIOLITE
         move MOVE_THUNDERBOLT
         move MOVE_FLASH_CANNON
         move MOVE_VOLT_SWITCH
@@ -1301,7 +1287,7 @@ trainerdata 34, "Chuck"
 trainerdata 35, "Clair"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_ABILITY
     trainerclass TRAINERCLASS_LEADER_CLAIR
-    nummons 5
+    nummons 4
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_NONE
@@ -1315,13 +1301,13 @@ trainerdata 35, "Clair"
         ivs 210
         abilityslot 0
         level 50
-        pokemon SPECIES_ALTARIA
-        item ITEM_NONE
+        pokemon SPECIES_DRAGONAIR
+        item ITEM_EVIOLITE
         move MOVE_DRAGON_PULSE
-        move MOVE_HURRICANE
-        move MOVE_EARTHQUAKE
-        move MOVE_RAIN_DANCE
-        ability ABILITY_NATURAL_CURE
+        move MOVE_IRON_TAIL
+        move MOVE_THUNDERBOLT
+        move MOVE_THUNDER_WAVE
+        ability ABILITY_MARVEL_SCALE
         ball ITEM_ULTRA_BALL
         ballseal 0
 
@@ -1354,20 +1340,6 @@ trainerdata 35, "Clair"
         ballseal 0
 
         // mon 3
-        ivs 210
-        abilityslot 0
-        level 50
-        pokemon SPECIES_DRAMPA
-        item ITEM_NONE
-        move MOVE_DRAGON_PULSE
-        move MOVE_ROOST
-        move MOVE_FLAMETHROWER
-        move MOVE_HYPER_VOICE
-        ability ABILITY_BERSERK
-        ball ITEM_ULTRA_BALL
-        ballseal 0
-
-        // mon 4
         ivs 240
         abilityslot 0
         level 53

@@ -5582,7 +5582,7 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 encounter SPECIES_CARVANHA, 27, 29
-encounter SPECIES_BARBOACH 28, 30
+encounter SPECIES_BARBOACH, 28, 30
 encounter SPECIES_CARVANHA, 30, 31
 encounter SPECIES_RELICANTH, 31, 33
 encounter SPECIES_RELICANTH, 37, 37
@@ -5790,7 +5790,7 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 encounter SPECIES_CARVANHA, 27, 29
-encounter SPECIES_BARBOACH 28, 30
+encounter SPECIES_BARBOACH, 28, 30
 encounter SPECIES_CARVANHA, 30, 31
 encounter SPECIES_RELICANTH, 31, 33
 encounter SPECIES_RELICANTH, 37, 37
@@ -5894,7 +5894,7 @@ pokemon SPECIES_CHINGLING
 
 // surf encounters
 encounter SPECIES_CARVANHA, 27, 29
-encounter SPECIES_BARBOACH 28, 30
+encounter SPECIES_BARBOACH, 28, 30
 encounter SPECIES_CARVANHA, 30, 31
 encounter SPECIES_RELICANTH, 31, 33
 encounter SPECIES_RELICANTH, 37, 37
