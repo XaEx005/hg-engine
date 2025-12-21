@@ -9760,15 +9760,19 @@
         "Move": "MOVE_SEISMIC_TOSS"
       },
       {
-        "Level": 17,
+        "Level": 16,
         "Move": "MOVE_SWAGGER"
       },
       {
-        "Level": 22,
+        "Level": 20,
+        "Move": "MOVE_ROCK_THROW"
+      },
+      {
+        "Level": 24,
         "Move": "MOVE_CROSS_CHOP"
       },
       {
-        "Level": 26,
+        "Level": 27,
         "Move": "MOVE_ASSURANCE"
       },
       {
@@ -9776,15 +9780,15 @@
         "Move": "MOVE_THRASH"
       },
       {
-        "Level": 34,
+        "Level": 33,
         "Move": "MOVE_ACROBATICS"
       },
       {
-        "Level": 38,
+        "Level": 37,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
-        "Level": 42,
+        "Level": 41,
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
@@ -9974,19 +9978,23 @@
         "Move": "MOVE_SEISMIC_TOSS"
       },
       {
-        "Level": 17,
+        "Level": 16,
         "Move": "MOVE_SWAGGER"
       },
       {
-        "Level": 22,
+        "Level": 20,
+        "Move": "MOVE_ROCK_THROW"
+      },
+      {
+        "Level": 24,
         "Move": "MOVE_CROSS_CHOP"
       },
       {
-        "Level": 26,
+        "Level": 27,
         "Move": "MOVE_ASSURANCE"
       },
       {
-        "Level": 30,
+        "Level": 31,
         "Move": "MOVE_THRASH"
       },
       {
@@ -9994,11 +10002,11 @@
         "Move": "MOVE_RAGE_FIST"
       },
       {
-        "Level": 37,
+        "Level": 38,
         "Move": "MOVE_ACROBATICS"
       },
       {
-        "Level": 41,
+        "Level": 42,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
@@ -10006,11 +10014,11 @@
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
-        "Level": 51,
+        "Level": 52,
         "Move": "MOVE_OUTRAGE"
       },
       {
-        "Level": 56,
+        "Level": 57,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],
@@ -163817,19 +163825,23 @@
         "Move": "MOVE_SEISMIC_TOSS"
       },
       {
-        "Level": 17,
+        "Level": 16,
         "Move": "MOVE_SWAGGER"
       },
       {
-        "Level": 22,
+        "Level": 20,
+        "Move": "MOVE_ROCK_THROW"
+      },
+      {
+        "Level": 24,
         "Move": "MOVE_CROSS_CHOP"
       },
       {
-        "Level": 26,
+        "Level": 27,
         "Move": "MOVE_ASSURANCE"
       },
       {
-        "Level": 30,
+        "Level": 31,
         "Move": "MOVE_THRASH"
       },
       {
@@ -163837,11 +163849,11 @@
         "Move": "MOVE_RAGE_FIST"
       },
       {
-        "Level": 37,
+        "Level": 38,
         "Move": "MOVE_ACROBATICS"
       },
       {
-        "Level": 41,
+        "Level": 42,
         "Move": "MOVE_CLOSE_COMBAT"
       },
       {
@@ -163849,11 +163861,15 @@
         "Move": "MOVE_STOMPING_TANTRUM"
       },
       {
-        "Level": 51,
+        "Level": 52,
         "Move": "MOVE_OUTRAGE"
       },
       {
-        "Level": 56,
+        "Level": 58,
+        "Move": "MOVE_PHANTOM_FORCE"
+      },
+      {
+        "Level": 64,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],

@@ -658,7 +658,7 @@ trainerdata 20, "Falkner"
         move MOVE_LEER
         move MOVE_PECK
         move MOVE_NIGHT_SHADE
-        move MOVE_CONFUSION
+        move MOVE_STORED_POWER
 	    ability ABILITY_SYNCHRONIZE
         ball ITEM_LEVEL_BALL
         ballseal 0
@@ -724,7 +724,7 @@ trainerdata 21, "Bugsy"
         abilityslot 1
         level 20
         pokemon SPECIES_HERACROSS
-        item ITEM_ORAN_BERRY
+        item ITEM_BERRY_JUICE
         move MOVE_LOW_KICK
         move MOVE_ROCK_THROW
         move MOVE_BUG_BITE
@@ -1047,15 +1047,15 @@ trainerdata 31, "Morty"
 
         // mon 1
         ivs 100
-        abilityslot 0
+        abilityslot 1
         level 26
-        pokemon SPECIES_TREVENANT
+        pokemon SPECIES_SABLEYE
         item ITEM_NONE
         move MOVE_SHADOW_CLAW
-        move MOVE_SCARY_FACE
-        move MOVE_TRAILBLAZE
-        move MOVE_BULLDOZE
-        ability ABILITY_NATURAL_CURE
+        move MOVE_TORMENT
+        move MOVE_SUCKER_PUNCH
+        move MOVE_POWER_GEM
+        ability ABILITY_PRANKSTER
         ball ITEM_DUSK_BALL
         ballseal 0
 
@@ -1152,7 +1152,7 @@ trainerdata 33, "Jasmine"
     item ITEM_HYPER_POTION
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -1179,7 +1179,7 @@ trainerdata 33, "Jasmine"
         item ITEM_EVIOLITE
         move MOVE_THUNDERBOLT
         move MOVE_FLASH_CANNON
-        move MOVE_VOLT_SWITCH
+        move MOVE_LIGHT_SCREEN
         move MOVE_THUNDER_WAVE
         ability ABILITY_ANALYTIC
         ball ITEM_HEAVY_BALL
@@ -1192,7 +1192,7 @@ trainerdata 33, "Jasmine"
         pokemon SPECIES_FORRETRESS
         item ITEM_SMOOTH_ROCK
         move MOVE_SPIKES
-        move MOVE_GYRO_BALL
+        move MOVE_EXPLOSION
         move MOVE_SANDSTORM
         move MOVE_ROCK_SLIDE
         ability ABILITY_STURDY
@@ -1204,12 +1204,12 @@ trainerdata 33, "Jasmine"
         abilityslot 0
         level 36
         pokemon SPECIES_STEELIX
-        item ITEM_QUICK_CLAW
+        item ITEM_SITRUS_BERRY
         move MOVE_SCREECH
         move MOVE_EARTHQUAKE
-        move MOVE_ROCK_SLIDE
+        move MOVE_THUNDER_FANG
         move MOVE_IRON_TAIL
-        ability ABILITY_SHEER_FORCE
+        ability ABILITY_SOLID_ROCK
         ball ITEM_HEAVY_BALL
         ballseal 0
     endparty
@@ -1270,15 +1270,15 @@ trainerdata 34, "Chuck"
         ballseal 0
 
         // mon 3
-        ivs 120
+        ivs 130
         abilityslot 0
         level 34
         pokemon SPECIES_ANNIHILAPE
-        item ITEM_NONE
-        move MOVE_CROSS_CHOP
+        item ITEM_SITRUS_BERRY
+        move MOVE_BRICK_BREAK
         move MOVE_SHADOW_PUNCH
         move MOVE_BULK_UP
-        move MOVE_ROCK_SLIDE
+        move MOVE_ROCK_THROW
         ability ABILITY_INNER_FOCUS
         ball ITEM_REPEAT_BALL
         ballseal 0
@@ -10153,7 +10153,7 @@ trainerdata 290, "Li"
 
         // mon 2
         ivs 0
-        abilityslot 0
+        abilityslot 1
         level 11
         pokemon SPECIES_WEEPINBELL
         ballseal 0
@@ -24434,7 +24434,7 @@ trainerdata 715, "Morty"
 
         // mon 1
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 62
         pokemon SPECIES_DUSKNOIR
         item ITEM_NONE
@@ -24448,24 +24448,12 @@ trainerdata 715, "Morty"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_SABLEYE
+        pokemon SPECIES_SPIRITOMB
         item ITEM_NONE
         move MOVE_SUCKER_PUNCH
-        move MOVE_BRICK_BREAK
-        move MOVE_ICE_PUNCH
-        move MOVE_FAKE_OUT
-        ballseal 0
-
-        // mon 3
-        ivs 250
-        abilityslot 0
-        level 60
-        pokemon SPECIES_MISMAGIUS
-        item ITEM_NONE
-        move MOVE_PERISH_SONG
-        move MOVE_MEAN_LOOK
-        move MOVE_CONFUSE_RAY
-        move MOVE_ASTONISH
+        move MOVE_WILL_O_WISP
+        move MOVE_SHADOW_BALL
+        move MOVE_PSYCHIC
         ballseal 0
 
         // mon 4
@@ -24480,9 +24468,21 @@ trainerdata 715, "Morty"
         move MOVE_EARTHQUAKE
         ballseal 0
 
+        // mon 4
+        ivs 250
+        abilityslot 1
+        level 64
+        pokemon SPECIES_CHANDELURE
+        item ITEM_NONE
+        move MOVE_OVERHEAT
+        move MOVE_ENERGY_BALL
+        move MOVE_SHADOW_BALL
+        move MOVE_CALM_MIND
+        ballseal 0
+
         // mon 5
         ivs 250
-        abilityslot 0
+        abilityslot 1
         level 64
         pokemon SPECIES_GENGAR
         item ITEM_NONE

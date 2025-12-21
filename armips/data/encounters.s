@@ -957,12 +957,12 @@ walklevels 21, 22, 24, 25, 26, 23, 21, 28, 22, 24, 28, 29
 // morning encounter slots
 pokemon SPECIES_NATU
 pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_BALTOY
+pokemon SPECIES_YAMASK
 pokemon SPECIES_XATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
 pokemon SPECIES_XATU
+pokemon SPECIES_HONEDGE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
@@ -971,12 +971,12 @@ pokemon SPECIES_SMEARGLE
 // day encounter slots
 pokemon SPECIES_NATU
 pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_BALTOY
+pokemon SPECIES_YAMASK
 pokemon SPECIES_XATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
 pokemon SPECIES_XATU
+pokemon SPECIES_HONEDGE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
@@ -985,12 +985,12 @@ pokemon SPECIES_SMEARGLE
 // night encounter slots
 pokemon SPECIES_NATU
 pokemon SPECIES_NATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_BALTOY
+pokemon SPECIES_YAMASK
 pokemon SPECIES_XATU
-pokemon SPECIES_NATU
-pokemon SPECIES_NATU
 pokemon SPECIES_XATU
+pokemon SPECIES_HONEDGE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
 pokemon SPECIES_SMEARGLE
