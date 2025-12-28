@@ -888,9 +888,9 @@ _0774: // Trainer 320
     trainertextentry 320, TEXT_DEFEATED_IN_OVERWORLD, "I’m still too impatient...\n"
 
 _0780: // Trainer 321
-    trainertextentry 321, TEXT_NOTICE_IN_OVERWORLD, "I feel so content, fishing while listening\nto some tunes on my radio.\r"
+    trainertextentry 321, TEXT_NOTICE_IN_OVERWORLD, "I feel so light, traveling while listening\nto some tunes on my radio.\r"
     trainertextentry 321, TEXT_DEFEATED_IN_BATTLE, "I was listening to my radio the whole\ntime... Is that why I lost?!\n"
-    trainertextentry 321, TEXT_DEFEATED_IN_OVERWORLD, "Have you checked out Kanto’s radio\nprograms? We get a good variety here.\n"
+    trainertextentry 321, TEXT_DEFEATED_IN_OVERWORLD, "Have you checked out Kanto’s radio\nprograms? They get a good variety there.\n"
 
 _078C: // Trainer 322
     trainertextentry 322, TEXT_NOTICE_IN_OVERWORLD, "What’s most important in our\neveryday lives?\r"

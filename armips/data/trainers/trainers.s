@@ -11074,10 +11074,10 @@ trainerdata 320, "Martin"
         ballseal 0
     endparty
 
-trainerdata 321, "Stephen"
+trainerdata 321, "Stefany"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_FISHERMAN
-    nummons 3
+    trainerclass TRAINERCLASS_BIRD_KEEPER
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -11089,23 +11089,16 @@ trainerdata 321, "Stephen"
     party 321
         // mon 0
         ivs 0
-        abilityslot 0
-        level 43
-        pokemon SPECIES_QUAGSIRE
+        abilityslot 1
+        level 21
+        pokemon SPECIES_FARFETCHD
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 38
-        pokemon SPECIES_QWILFISH
-        ballseal 0
-
-        // mon 2
-        ivs 0
-        abilityslot 0
-        level 38
-        pokemon SPECIES_TENTACRUEL
+        level 21
+        pokemon SPECIES_NOCTOWL
         ballseal 0
     endparty
 
