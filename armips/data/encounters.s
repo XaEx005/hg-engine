@@ -4072,52 +4072,52 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 21, 22, 23, 24, 25, 22, 24, 23, 24, 25, 28, 28
+walklevels 21, 22, 23, 23, 22, 21, 24, 23, 23, 24, 26, 27
 
 // morning encounter slots
-pokemon SPECIES_MARILL
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
-pokemon SPECIES_ELEKID
-pokemon SPECIES_ELEKID
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_MAKUHITA
+pokemon SPECIES_ELEKID
+pokemon SPECIES_TAUROS
+pokemon SPECIES_ELEKID
+pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK
-pokemon SPECIES_MAKUHITA
 pokemon SPECIES_MILTANK
-pokemon SPECIES_PERSIAN
+pokemon SPECIES_MAGNETON
+pokemon SPECIES_MILTANK
 
 // day encounter slots
-pokemon SPECIES_MARILL
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
-pokemon SPECIES_ELEKID
-pokemon SPECIES_ELEKID
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_MAKUHITA
+pokemon SPECIES_ELEKID
+pokemon SPECIES_TAUROS
+pokemon SPECIES_ELEKID
+pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK
-pokemon SPECIES_MAKUHITA
 pokemon SPECIES_MILTANK
-pokemon SPECIES_PERSIAN
+pokemon SPECIES_MAGNETON
+pokemon SPECIES_MILTANK
 
 // night encounter slots
-pokemon SPECIES_MARILL
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
+pokemon SPECIES_VOLTORB
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_MARILL
+pokemon SPECIES_HAPPINY
 pokemon SPECIES_ELEKID
+pokemon SPECIES_TAUROS
 pokemon SPECIES_ELEKID
-pokemon SPECIES_MAKUHITA
+pokemon SPECIES_TAUROS
 pokemon SPECIES_MILTANK
-pokemon SPECIES_MAKUHITA
+pokemon SPECIES_MILTANK
 pokemon SPECIES_MILTANK
 pokemon SPECIES_PERSIAN
 
 // hoenn encounter slots
-pokemon SPECIES_CORPHISH
+pokemon SPECIES_LOPUNNY
 pokemon SPECIES_CACNEA
 
 // sinnoh encounter slots
@@ -4125,10 +4125,10 @@ pokemon SPECIES_PACHIRISU
 pokemon SPECIES_DRIFBLIM
 
 // surf encounters
-encounter SPECIES_PSYDUCK, 20, 23
-encounter SPECIES_WINGULL, 21, 23
-encounter SPECIES_PSYDUCK, 24, 25
-encounter SPECIES_WINGULL, 24, 25
+encounter SPECIES_PSYDUCK, 22, 24
+encounter SPECIES_MARILL, 23, 25
+encounter SPECIES_WINGULL, 23, 25
+encounter SPECIES_PSYDUCK, 25, 26
 encounter SPECIES_PELIPPER, 27, 28
 
 // rock smash encounters
