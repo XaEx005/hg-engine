@@ -1133,7 +1133,7 @@ movedata MOVE_SEISMIC_TOSS, "Seismic Toss"
 movedata MOVE_STRENGTH, "Strength"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
-    basepower 80
+    basepower 85
     type TYPE_NORMAL
     accuracy 100
     pp 15
@@ -6909,10 +6909,10 @@ movedata MOVE_FLASH_CANNON, "Flash Cannon"
 movedata MOVE_ROCK_CLIMB, "Rock Climb"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
-    basepower 90
+    basepower 95
     type TYPE_NORMAL
-    accuracy 85
-    pp 20
+    accuracy 95
+    pp 10
     effectchance 20
     target RANGE_SINGLE_TARGET
     priority 0
