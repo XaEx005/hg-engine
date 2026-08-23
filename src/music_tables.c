@@ -1,7 +1,8 @@
-#include "../include/types.h"
+#include "../include/config.h"
 #include "../include/constants/sndseq.h"
 #include "../include/constants/species.h"
 #include "../include/constants/trainerclass.h"
+#include "../include/types.h"
 
 // Table seems to combine animation in column 1 with music in column 2, 0xFFFF for no special animation
 
@@ -102,30 +103,27 @@ u8 TrainerClassToMusicCombo[][2] =
     {TRAINERCLASS_ELITE_FOUR_LORELEI, ANIM_MUSIC_COMBO_LORELEI*4},
 };
 
-struct MonBattleMusic
-{
-    u16 species:10;
-    u16 combo:6;
+struct MonBattleMusic {
+    u16 species : 10;
+    u16 combo : 6;
 };
 
-struct MonBattleMusic PokemonBattleMusic[] =
-{
-    {.species = SPECIES_RAIKOU,   .combo = ANIM_MUSIC_COMBO_RAIKOU},
-    {.species = SPECIES_ENTEI,    .combo = ANIM_MUSIC_COMBO_ENTEI},
-    {.species = SPECIES_SUICUNE,  .combo = ANIM_MUSIC_COMBO_SUICUNE},
-    {.species = SPECIES_LUGIA,    .combo = ANIM_MUSIC_COMBO_LUGIA},
-    {.species = SPECIES_HO_OH,    .combo = ANIM_MUSIC_COMBO_HO_OH},
-    {.species = SPECIES_GROUDON,  .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO},
-    {.species = SPECIES_KYOGRE,   .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO},
-    {.species = SPECIES_RAYQUAZA, .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO},
-    {.species = SPECIES_MEWTWO,   .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS},
-    {.species = SPECIES_LATIOS,   .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS},
-    {.species = SPECIES_LATIAS,   .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS},
+struct MonBattleMusic PokemonBattleMusic[] = {
+    { .species = SPECIES_RAIKOU, .combo = ANIM_MUSIC_COMBO_RAIKOU },
+    { .species = SPECIES_ENTEI, .combo = ANIM_MUSIC_COMBO_ENTEI },
+    { .species = SPECIES_SUICUNE, .combo = ANIM_MUSIC_COMBO_SUICUNE },
+    { .species = SPECIES_LUGIA, .combo = ANIM_MUSIC_COMBO_LUGIA },
+    { .species = SPECIES_HO_OH, .combo = ANIM_MUSIC_COMBO_HO_OH },
+    { .species = SPECIES_GROUDON, .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO },
+    { .species = SPECIES_KYOGRE, .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO },
+    { .species = SPECIES_RAYQUAZA, .combo = ANIM_MUSIC_COMBO_WEATHER_TRIO },
+    { .species = SPECIES_MEWTWO, .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS },
+    { .species = SPECIES_LATIOS, .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS },
+    { .species = SPECIES_LATIAS, .combo = ANIM_MUSIC_COMBO_MEWTWO_LATI_TWINS },
     // (***END VANILLA ENTRIES***)
 };
 
-struct TrainerMusic
-{
+struct TrainerMusic {
     u16 class;
     u16 music1;
     u16 music2;

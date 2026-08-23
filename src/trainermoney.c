@@ -1,8 +1,9 @@
-#include "../include/types.h"
+#include "../include/config.h"
 #include "../include/constants/trainerclass.h"
+#include "../include/types.h"
 
-struct TrainerMoney
-{
+#ifdef EXPAND_TRAINER_PRIZE_MONEY
+struct TrainerMoney {
     u16 class;
     u16 multiplier;
 };
