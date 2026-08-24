@@ -10835,13 +10835,13 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
             .fullName = "Aqua Tail",
         },
         .data = {
-            .effect = MOVE_EFFECT_HIT,
+            .effect = MOVE_EFFECT_FLINCH_HIT,
             .split = SPLIT_PHYSICAL,
             .power = 90,
             .type = TYPE_WATER,
-            .accuracy = 90,
+            .accuracy = 95,
             .pp = 10,
-            .effectChance = 0,
+            .effectChance = 10,
         },
         .battle = {
             .target = RANGE_SINGLE_TARGET,

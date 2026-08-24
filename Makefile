@@ -527,40 +527,11 @@ move_narc: $(NARC_FILES)
 	@echo "battle tests:"
 	cp $(BATTLETESTS_BIN) $(BATTLETESTS_TARGET)
 
-<<<<<<< HEAD
-DUMP_SCRIPT_LOCATION := tools/source/dumptools
-# the goal here is to extract the required narcs to the proper folders for the dump scripts to work.
-# learnsets are covered by script migration
-dumprom: $(VENV_ACTIVATE)
-	$(MAKE) clean
-	chmod +x $(DUMP_SCRIPT_LOCATION)/*.sh
-
-	./$(DUMP_SCRIPT_LOCATION)/dumprom.sh
-	mkdir -p $(BUILD) $(BUILD_NARC) $(BUILD)/a028/
-# dump human overworlds
-	#./$(DUMP_SCRIPT_LOCATION)/dump_human_overworlds.sh
-# dump everything covered by this script
-	$(NARCHIVE) extract $(FILESYS)/a/0/2/8 -o $(BUILD)/a028/ -nf
-# mondata:  needed by migrate_learnsets.py
-	cp $(MONDATA_TARGET) $(BUILD_NARC)/mondata
-	$(NARCHIVE) extract $(BUILD_NARC)/mondata -o $(MONDATA_DIR)
-	rm $(BUILD_NARC)/mondata
-# learnsets:  needed by migrate_learnsets.py
-	cp $(LEVELUPLEARNSET_TARGET) $(BUILD_NARC)/learnset
-	$(NARCHIVE) extract $(BUILD_NARC)/learnset -o $(LEVELUPLEARNSET_DIR)
-# kowaza:  needed by migrate_learnsets.py
-	cp $(EGGLEARNSET_TARGET) $(BUILD_NARC)/kowaza
-	$(NARCHIVE) extract $(BUILD_NARC)/kowaza -o $(BUILD)/kowaza
-	$(PYTHON) tools/source/dumptools/migrate_learnsets.py
-	rm -rf $(BUILD)
-
-=======
 	@echo "background gfx ids:"
 	cp $(BACKGROUND_GFX_IDS_BIN) $(BACKGROUND_GFX_IDS_TARGET)
 
 	@echo "hidden item params:"
 	cp $(HIDDEN_ITEM_PARAMS_BIN) $(HIDDEN_ITEM_PARAMS_TARGET)
->>>>>>> upstream/main
 
 update_machine_moves: $(VENV_ACTIVATE)
 	$(PYTHON) scripts/update_machine_moves.py --descriptions --sprites
