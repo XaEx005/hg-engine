@@ -2606,7 +2606,7 @@ const EncounterData __data[] =
         .fishSwarm = SPECIES_NONE,
     },
 
-    [ENCDATA_R37_ROUTE_37] = {
+    [ENCDATA_R37_ROUTE_37] = { //UNUSED
         .rateWalk = 25,
         .rateSurf = 0,
         .rateRockSmash = 0,
@@ -3806,58 +3806,58 @@ const EncounterData __data[] =
         .fishSwarm = SPECIES_NONE,
     },
 
-    [ENCDATA_R38_ROUTE_38] = {
+    [ENCDATA_R38_ROUTE_38] = { //NEW R41_ROUTE_41
         .rateWalk = 25,
-        .rateSurf = 0,
+        .rateSurf = 10,
         .rateRockSmash = 0,
         .rateOldRod = 0,
         .rateGoodRod = 0,
         .rateSuperRod = 0,
         .landSlots = {
             .levels = {
-                20, 20, 21, 22, 20, 22, 21, 23, 21, 23, 25, 26
+                26, 26, 27, 28, 28, 28, 27, 27, 29, 29, 31, 31
             },
             .speciesMorning = {
-                SPECIES_SKITTY,
-                SPECIES_SNUBBULL,
-                SPECIES_HAPPINY,
-                SPECIES_SNUBBULL,
-                SPECIES_MAGNEMITE,
-                SPECIES_MAGNEMITE,
-                SPECIES_SKITTY,
-                SPECIES_SKITTY,
-                SPECIES_TAUROS,
-                SPECIES_TAUROS,
-                SPECIES_CHANSEY,
-                SPECIES_TAUROS,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_ARON,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_DODUO,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
             },
             .speciesDay = {
-                SPECIES_SKITTY,
-                SPECIES_SNUBBULL,
-                SPECIES_HAPPINY,
-                SPECIES_SNUBBULL,
-                SPECIES_MAGNEMITE,
-                SPECIES_MAGNEMITE,
-                SPECIES_SKITTY,
-                SPECIES_SKITTY,
-                SPECIES_TAUROS,
-                SPECIES_TAUROS,
-                SPECIES_CHANSEY,
-                SPECIES_TAUROS,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_ARON,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_DODUO,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
             },
             .speciesNight = {
-                SPECIES_SKITTY,
-                SPECIES_SNUBBULL,
-                SPECIES_MIME_JR,
-                SPECIES_SNUBBULL,
-                SPECIES_VOLTORB,
-                SPECIES_VOLTORB,
-                SPECIES_SKITTY,
-                SPECIES_SKITTY,
-                SPECIES_TAUROS,
-                SPECIES_TAUROS,
-                SPECIES_MR_MIME,
-                SPECIES_TAUROS,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_ARON,
+                SPECIES_EXEGGCUTE,
+                SPECIES_KRABBY,
+                SPECIES_DODUO,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
+                SPECIES_GLIGAR,
+                SPECIES_AIPOM,
             },
         },
         .hoennSoundSpecies = {
@@ -3869,11 +3869,11 @@ const EncounterData __data[] =
             SPECIES_LOPUNNY,
         },
         .surfSlots = {
-            { 0, 0, SPECIES_NONE },
-            { 0, 0, SPECIES_NONE },
-            { 0, 0, SPECIES_NONE },
-            { 0, 0, SPECIES_NONE },
-            { 0, 0, SPECIES_NONE },
+            { 24, 26, SPECIES_REMORAID },
+            { 27, 28, SPECIES_LANTURN },
+            { 26, 28, SPECIES_OCTILLERY },
+            { 28, 30, SPECIES_MANTINE },
+            { 31, 32, SPECIES_MANTINE },
         },
         .rockSmashSlots = {
             { 0, 0, SPECIES_NONE },
@@ -3906,7 +3906,7 @@ const EncounterData __data[] =
         .fishSwarm = SPECIES_NONE,
     },
 
-    [ENCDATA_R39_ROUTE_39] = {
+    [ENCDATA_R39_ROUTE_39] = { //NEW R37_ROUTE_37
         .rateWalk = 25,
         .rateSurf = 10,
         .rateRockSmash = 0,
@@ -4069,11 +4069,11 @@ const EncounterData __data[] =
             SPECIES_NONE,
         },
         .surfSlots = {
-            { 15, 25, SPECIES_TENTACOOL },
-            { 10, 20, SPECIES_TENTACOOL },
-            { 15, 25, SPECIES_TENTACRUEL },
-            { 15, 25, SPECIES_TENTACRUEL },
-            { 15, 25, SPECIES_TENTACRUEL },
+            { 22, 24, SPECIES_REMORAID },
+            { 23, 25, SPECIES_TENTACOOL },
+            { 25, 25, SPECIES_OCTILLERY },
+            { 22, 23, SPECIES_CHINCHOU },
+            { 25, 26, SPECIES_CHINCHOU },
         },
         .rockSmashSlots = {
             { 0, 0, SPECIES_NONE },
@@ -4106,7 +4106,7 @@ const EncounterData __data[] =
         .fishSwarm = SPECIES_MAGIKARP,
     },
 
-    [ENCDATA_W40_ROUTE_40] = {
+    [ENCDATA_W40_ROUTE_40] = { //NEW R39_ROUTE_39
         .rateWalk = 25,
         .rateSurf = 10,
         .rateRockSmash = 0,
@@ -4169,11 +4169,11 @@ const EncounterData __data[] =
             SPECIES_NONE,
         },
         .surfSlots = {
-            { 24, 26, SPECIES_TENTACOOL },
-            { 25, 27, SPECIES_CHINCHOU },
+            { 24, 26, SPECIES_REMORAID },
+            { 25, 27, SPECIES_TENTACOOL },
             { 26, 26, SPECIES_STARYU },
-            { 29, 29, SPECIES_TENTACRUEL },
-            { 30, 31, SPECIES_TENTACRUEL },
+            { 28, 28, SPECIES_OCTILLERY },
+            { 30, 30, SPECIES_OCTILLERY },
         },
         .rockSmashSlots = {
             { 0, 0, SPECIES_NONE },
@@ -4206,7 +4206,7 @@ const EncounterData __data[] =
         .fishSwarm = SPECIES_MAGIKARP,
     },
 
-    [ENCDATA_W41_ROUTE_41] = {
+    [ENCDATA_W41_ROUTE_41] = { //NEW W40_ROUTE_40
         .rateWalk = 0,
         .rateSurf = 10,
         .rateRockSmash = 0,
@@ -4270,7 +4270,7 @@ const EncounterData __data[] =
         },
         .surfSlots = {
             { 26, 26, SPECIES_TENTACOOL },
-            { 27, 28, SPECIES_TENTACRUEL },
+            { 27, 28, SPECIES_LANTURN },
             { 25, 27, SPECIES_MANTYKE },
             { 28, 30, SPECIES_MANTINE },
             { 31, 32, SPECIES_MANTINE },
