@@ -1575,7 +1575,7 @@ const TrainerData sTrainerData[] = {
                 .ballSeal = 0,
             },
             {
-                .ivs = 130,
+                .ivs = 120,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
                 .level = 34,
                 .species = SPECIES_ANNIHILAPE,
@@ -4745,14 +4745,14 @@ const TrainerData sTrainerData[] = {
             .trainerClass = TRAINERCLASS_YOUNG_COUPLE,
             .items = { ITEM_NONE, ITEM_NONE, ITEM_NONE, ITEM_NONE },
             .aiFlags = F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS,
-            .battleType = DOUBLE_BATTLE_BATTLE,
+            .battleType = DOUBLE_BATTLE,
         },
         .party = {
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
                 .level = 30,
-                .species = SPECIES_MAROWAK,
+                .species = SPECIES_ONIX,
                 .ballSeal = 0,
             },
             {
@@ -4779,16 +4779,36 @@ const TrainerData sTrainerData[] = {
         },
         .text = {
             {
-                .type = TRMSG_INTRO,
-                .text = "We're from Kanto on a trip\\nto catch new Pokémon!\\r",
+                .type = TRMSG_DBL_INTRO_1,
+                .text = "Jean: Hi! I'm from Kanto.\\rI'm here with my girlfriend\\nto catch new Pokémon!\\r",
             },
             {
-                .type = TRMSG_LOSE,
-                .text = "Wow, you must be from Johto.\\n",
+                .type = TRMSG_DBL_LOSE_1,
+                .text = "Jean: Uwaaaahhh...\\n",
             },
             {
-                .type = TRMSG_AFTER,
-                .text = "Thank you for the battle!\\nwe are now headed to Cianwood City.\\n",
+                .type = TRMSG_DBL_AFTER_1,
+                .text = "Jean: In short, you must be\\na real Johtonian!\\n",
+            },
+            {
+                .type = TRMSG_DBL_1POKE_1,
+                .text = "Jean: You don’t have enough Pokémon for\\na battle with us.\\n",
+            },
+            {
+                .type = TRMSG_DBL_INTRO_2,
+                .text = "Shana: My boyfriend and I just\\nfound super cute typical Pokèmon!\\fwanna see them?\\r",
+            },
+            {
+                .type = TRMSG_DBL_LOSE_2,
+                .text = "Shana: Eeek!\\n",
+            },
+            {
+                .type = TRMSG_DBL_AFTER_2,
+                .text = "Shana: Thank you for the battle!\\nwe are now headed to Cianwood City.\\n",
+            },
+            {
+                .type = TRMSG_DBL_1POKE_2,
+                .text = "Shana: Uh-oh, you’ve got only one\\nPokémon!\\n",
             },
         },
     },
@@ -13185,7 +13205,7 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 30,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 33,
+                .level = 32,
                 .species = SPECIES_GOLEM,
                 .ballSeal = 0,
             },
@@ -30997,28 +31017,28 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 29,
+                .level = 30,
                 .species = MON_WITH_FORM(SPECIES_SANDSLASH, 1),
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 29,
+                .level = 30,
                 .species = MON_WITH_FORM(SPECIES_PERSIAN, 1),
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 31,
+                .level = 32,
                 .species = MON_WITH_FORM(SPECIES_WEEZING, 1),
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 31,
+                .level = 32,
                 .species = MON_WITH_FORM(SPECIES_RAPIDASH, 1),
                 .ballSeal = 0,
             },
@@ -31072,14 +31092,14 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 50,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 31,
+                .level = 33,
                 .species = MON_WITH_FORM(SPECIES_EXEGGUTOR, 1),
                 .ballSeal = 0,
             },
             {
                 .ivs = 50,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 31,
+                .level = 33,
                 .species = MON_WITH_FORM(SPECIES_MAROWAK, 1),
                 .ballSeal = 0,
             },
@@ -31133,22 +31153,15 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 30,
-                .species = SPECIES_DUNSPARCE,
-                .ballSeal = 0,
-            },
-            {
-                .ivs = 0,
-                .abilitySlot = TRAINER_POKEMON_ABILITY_1,
                 .level = 31,
-                .species = SPECIES_DUDUNSPARCE,
+                .species = MON_WITH_FORM(SPECIES_GRAVELER, 1),
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 30,
-                .species = MON_WITH_FORM(SPECIES_GRAVELER, 1),
+                .level = 33,
+                .species = MON_WITH_FORM(SPECIES_GOLEM, 1),
                 .ballSeal = 0,
             },
         },
