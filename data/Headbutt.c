@@ -274,7 +274,7 @@ typedef struct PACKED HeadbuttFile_037_Route_33 {
     u16 specialTreeCount;
     HeadbuttEncounterSlot normalSlots[12];
     HeadbuttEncounterSlot specialSlots[6];
-    HeadbuttTreeCoord treeCoords[4][6];
+    HeadbuttTreeCoord treeCoords[3][6];
 } HeadbuttFile_037_Route_33;
 
 typedef struct PACKED HeadbuttFile_038_Route_34 {
@@ -298,7 +298,7 @@ typedef struct PACKED HeadbuttFile_040_Route_36 {
     u16 specialTreeCount;
     HeadbuttEncounterSlot normalSlots[12];
     HeadbuttEncounterSlot specialSlots[6];
-    HeadbuttTreeCoord treeCoords[26][6];
+    HeadbuttTreeCoord treeCoords[15][6];
 } HeadbuttFile_040_Route_36;
 
 typedef struct PACKED HeadbuttFile_041_Route_37 {
@@ -322,7 +322,7 @@ typedef struct PACKED HeadbuttFile_043_Route_39 {
     u16 specialTreeCount;
     HeadbuttEncounterSlot normalSlots[12];
     HeadbuttEncounterSlot specialSlots[6];
-    HeadbuttTreeCoord treeCoords[3][6];
+    HeadbuttTreeCoord treeCoords[2][6];
 } HeadbuttFile_043_Route_39;
 
 typedef struct PACKED HeadbuttFile_044_Route_42 {
@@ -638,6 +638,9 @@ typedef struct PACKED HeadbuttFile_093_Route_21 {
 typedef struct PACKED HeadbuttFile_094_Route_40 {
     u16 normalTreeCount;
     u16 specialTreeCount;
+    HeadbuttEncounterSlot normalSlots[12];
+    HeadbuttEncounterSlot specialSlots[6];
+    HeadbuttTreeCoord treeCoords[8][6];
 } HeadbuttFile_094_Route_40;
 
 typedef struct PACKED HeadbuttFile_095_Route_41 {
