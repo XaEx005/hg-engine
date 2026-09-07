@@ -4788,7 +4788,7 @@ const TrainerData sTrainerData[] = {
             },
             {
                 .type = TRMSG_DBL_AFTER_1,
-                .text = "Jean: In short, you must be\\na real Johtonian!\\n",
+                .text = "Jean: Woaw, you must be\\na real Johtonian!\\n",
             },
             {
                 .type = TRMSG_DBL_1POKE_1,
