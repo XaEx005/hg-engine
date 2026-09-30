@@ -4901,18 +4901,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_LEDYBA, 2, 3 },
-            { SPECIES_HOOTHOOT, 2, 3 },
-            { SPECIES_SPINARAK, 2, 3 },
-            { SPECIES_LEDYBA, 2, 3 },
-            { SPECIES_HOOTHOOT, 2, 3 },
-            { SPECIES_SPINARAK, 2, 3 },
-            { SPECIES_PINECO, 4, 5 },
-            { SPECIES_SPINARAK, 4, 5 },
-            { SPECIES_PINECO, 5, 6 },
-            { SPECIES_SPINARAK, 5, 6 },
-            { SPECIES_PINECO, 7, 8 },
-            { SPECIES_HOOTHOOT, 9, 10 },
+            { SPECIES_HOOTHOOT, 2, 3 },  //50%
+            { SPECIES_LEDYBA, 2, 3 },    //15%
+            { SPECIES_SPINARAK, 2, 3 },  //15%
+            { SPECIES_AIPOM, 2, 3 },     //10%
+            { SPECIES_LEDYBA, 2, 3 },    //05%
+            { SPECIES_SPINARAK, 2, 3 },  //05%
+            { SPECIES_HOOTHOOT, 2, 3 },  //50%
+            { SPECIES_LEDYBA, 2, 3 },    //15%
+            { SPECIES_SPINARAK, 2, 3 },  //15%
+            { SPECIES_AIPOM, 2, 3 },     //10%
+            { SPECIES_LEDYBA, 2, 3 },    //05%
+            { SPECIES_SPINARAK, 2, 3 },  //05%
         },
         .specialSlots =
         {
@@ -4968,18 +4968,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_LEDYBA, 2, 3 },
             { SPECIES_HOOTHOOT, 2, 3 },
+            { SPECIES_WEEDLE, 2, 3 },
+            { SPECIES_CATERPIE, 2, 3 },
+            { SPECIES_ZUBAT, 2, 3 },
             { SPECIES_SPINARAK, 2, 3 },
-            { SPECIES_LEDYBA, 2, 3 },
-            { SPECIES_HOOTHOOT, 2, 3 },
             { SPECIES_SPINARAK, 2, 3 },
-            { SPECIES_PINECO, 4, 5 },
-            { SPECIES_SPINARAK, 4, 5 },
-            { SPECIES_PINECO, 5, 6 },
+            { SPECIES_HOOTHOOT, 4, 5 },
+            { SPECIES_WEEDLE, 4, 5 },
+            { SPECIES_CATERPIE, 4, 5 },
+            { SPECIES_ZUBAT, 5, 6 },
             { SPECIES_SPINARAK, 5, 6 },
-            { SPECIES_PINECO, 7, 8 },
-            { SPECIES_HOOTHOOT, 9, 10 },
+            { SPECIES_SPINARAK, 5, 6 },
         },
         .specialSlots =
         {
@@ -5144,18 +5144,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_SPEAROW, 8, 10 },
-            { SPECIES_HERACROSS, 8, 10 },
-            { SPECIES_HERACROSS, 10, 12 },
-            { SPECIES_LEDYBA, 7, 9 },
-            { SPECIES_LEDYBA, 9, 11 },
-            { SPECIES_LEDYBA, 11, 13 },
-            { SPECIES_SPEAROW, 9, 11 },
             { SPECIES_SPEAROW, 10, 12 },
-            { SPECIES_SPEAROW, 11, 13 },
-            { SPECIES_HERACROSS, 12, 14 },
-            { SPECIES_LEDYBA, 13, 14 },
-            { SPECIES_MURKROW, 13, 14 },
+            { SPECIES_EKANS, 11, 11 },
+            { SPECIES_EKANS, 13, 13 },
+            { SPECIES_HERACROSS, 8, 8 },
+            { SPECIES_HERACROSS, 10, 10 },
+            { SPECIES_HERACROSS, 12, 12 },
+            { SPECIES_SPEAROW, 10, 12 },
+            { SPECIES_EKANS, 11, 11 },
+            { SPECIES_EKANS, 13, 13 },
+            { SPECIES_HERACROSS, 8, 8 },
+            { SPECIES_HERACROSS, 10, 10 },
+            { SPECIES_HERACROSS, 12, 12 },
         },
         .specialSlots =
         {
@@ -5179,18 +5179,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_HOOTHOOT, 10, 12 },
-            { SPECIES_YANMA, 10, 12 },
-            { SPECIES_YANMA, 11, 13 },
+            { SPECIES_PIDGEY, 12, 14 },
             { SPECIES_SPINARAK, 10, 12 },
-            { SPECIES_SPINARAK, 11, 13 },
-            { SPECIES_HOOTHOOT, 11, 13 },
-            { SPECIES_PINECO, 9, 11 },
-            { SPECIES_PINECO, 10, 12 },
-            { SPECIES_PINECO, 11, 13 },
-            { SPECIES_YANMA, 12, 14 },
-            { SPECIES_SPINARAK, 14, 16 },
-            { SPECIES_HOOTHOOT, 14, 16 },
+            { SPECIES_HOOTHOOT, 12, 14 },
+            { SPECIES_YANMA, 10, 12 },
+            { SPECIES_ABRA, 13, 13 },
+            { SPECIES_YANMA, 13, 13 },
+            { SPECIES_PIDGEY, 12, 14 },
+            { SPECIES_SPINARAK, 10, 12 },
+            { SPECIES_HOOTHOOT, 12, 14 },
+            { SPECIES_YANMA, 10, 12 },
+            { SPECIES_ABRA, 13, 13 },
+            { SPECIES_YANMA, 13, 13 },
         },
         .specialSlots =
         {
@@ -5226,18 +5226,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_HOOTHOOT, 10, 12 },
-            { SPECIES_SCYTHER, 11, 12 },
-            { SPECIES_SCYTHER, 13, 14 },
-            { SPECIES_BEEDRILL, 11, 12 },
-            { SPECIES_BEEDRILL, 13, 14 },
-            { SPECIES_HOOTHOOT, 13, 14 },
-            { SPECIES_BUTTERFREE, 11, 12 },
-            { SPECIES_BUTTERFREE, 13, 14 },
-            { SPECIES_BUTTERFREE, 15, 16 },
-            { SPECIES_SCYTHER, 15, 16 },
-            { SPECIES_BEEDRILL, 15, 16 },
-            { SPECIES_HOOTHOOT, 15, 16 },
+            { SPECIES_HOOTHOOT, 14, 16 },
+            { SPECIES_PINSIR, 13, 13 },
+            { SPECIES_PINSIR, 15, 15 },
+            { SPECIES_KAKUNA, 13, 13 },
+            { SPECIES_KAKUNA, 15, 15 },
+            { SPECIES_BEEDRILL, 16, 16 },
+            { SPECIES_HOOTHOOT, 14, 16 },
+            { SPECIES_PINSIR, 13, 13 },
+            { SPECIES_PINSIR, 15, 15 },
+            { SPECIES_KAKUNA, 13, 13 },
+            { SPECIES_KAKUNA, 15, 15 },
+            { SPECIES_BEEDRILL, 16, 16 },
         },
         .specialSlots =
         {
@@ -5272,18 +5272,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_HOOTHOOT, 14, 15 },
-            { SPECIES_PINSIR, 13, 14 },
-            { SPECIES_PINSIR, 14, 15 },
-            { SPECIES_PINECO, 13, 14 },
-            { SPECIES_PINECO, 15, 16 },
-            { SPECIES_PINECO, 17, 17 },
-            { SPECIES_HOOTHOOT, 16, 17 },
-            { SPECIES_SPINARAK, 14, 15 },
-            { SPECIES_SPINARAK, 16, 17 },
-            { SPECIES_PINSIR, 16, 17 },
-            { SPECIES_LEDIAN, 16, 17 },
-            { SPECIES_LEDIAN, 18, 18 },
+            { SPECIES_HOOTHOOT, 16, 18 },
+            { SPECIES_PINSIR, 15, 15 },
+            { SPECIES_PINSIR, 17, 17 },
+            { SPECIES_METAPOD, 14, 14 },
+            { SPECIES_METAPOD, 16, 16 },
+            { SPECIES_BUTTERFREE, 18, 18 },
+            { SPECIES_HOOTHOOT, 16, 18 },
+            { SPECIES_PINSIR, 15, 15 },
+            { SPECIES_PINSIR, 17, 17 },
+            { SPECIES_METAPOD, 14, 14 },
+            { SPECIES_METAPOD, 16, 16 },
+            { SPECIES_BUTTERFREE, 18, 18 },
         },
         .specialSlots =
         {
@@ -5364,18 +5364,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 1,
         .normalSlots =
         {
-            { SPECIES_EXEGGCUTE, 24, 24 },
-            { SPECIES_AIPOM, 25, 26 },
+            { SPECIES_EXEGGCUTE, 25, 27 },
+            { SPECIES_AIPOM, 25, 25 },
             { SPECIES_AIPOM, 27, 27 },
-            { SPECIES_EXEGGCUTE, 25, 25 },
-            { SPECIES_EXEGGCUTE, 25, 25 },
-            { SPECIES_EXEGGCUTE, 26, 26 },
-            { SPECIES_AIPOM, 27, 28 },
-            { SPECIES_HERACROSS, 26, 27 },
-            { SPECIES_HERACROSS, 27, 28 },
-            { SPECIES_AIPOM, 28, 28 },
-            { SPECIES_EXEGGCUTE, 26, 26 },
-            { SPECIES_EXEGGCUTE, 27, 27 },
+            { SPECIES_EXEGGCUTE, 28, 29 },
+            { SPECIES_LEDIAN, 26, 28 },
+            { SPECIES_LEDIAN, 26, 28 },
+            { SPECIES_EXEGGCUTE, 25, 27 },
+            { SPECIES_AIPOM, 25, 25 },
+            { SPECIES_AIPOM, 27, 27 },
+            { SPECIES_EXEGGCUTE, 28, 29 },
+            { SPECIES_LEDIAN, 26, 28 },
+            { SPECIES_LEDIAN, 26, 28 },
         },
         .specialSlots =
         {
@@ -5411,17 +5411,17 @@ const HeadbuttArchiveData __data =
         .normalSlots =
         {
             { SPECIES_HOOTHOOT, 18, 18 },
-            { SPECIES_PINSIR, 20, 20 },
-            { SPECIES_PINSIR, 21, 21 },
-            { SPECIES_PINSIR, 22, 22 },
-            { SPECIES_HOOTHOOT, 18, 18 },
+            { SPECIES_PINECO, 20, 20 },
+            { SPECIES_PINECO, 22, 22 },
+            { SPECIES_SCYTHER, 18, 18 },
+            { SPECIES_SCYTHER, 20, 20 },
+            { SPECIES_NOCTOWL, 20, 20 },
             { SPECIES_HOOTHOOT, 19, 19 },
-            { SPECIES_HOOTHOOT, 19, 19 },
-            { SPECIES_SPINARAK, 21, 23 },
-            { SPECIES_SPINARAK, 21, 23 },
-            { SPECIES_PINSIR, 21, 23 },
-            { SPECIES_NOCTOWL, 20, 22 },
-            { SPECIES_NOCTOWL, 20, 22 },
+            { SPECIES_SCYTHER, 20, 20 },
+            { SPECIES_SCYTHER, 22, 22 },
+            { SPECIES_NOCTOWL, 20, 20 },
+            { SPECIES_NOCTOWL, 22, 22 },
+            { SPECIES_NOCTOWL, 22, 22 },
         },
         .specialSlots =
         {
@@ -5444,18 +5444,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_SPEAROW, 27, 27 },
-            { SPECIES_SCYTHER, 29, 30 },
+            { SPECIES_MANKEY, 27, 27 },
+            { SPECIES_HERACROSS, 28, 30 },
+            { SPECIES_SCYTHER, 29, 29 },
             { SPECIES_SCYTHER, 31, 31 },
-            { SPECIES_SCYTHER, 27, 28 },
-            { SPECIES_SPEAROW, 27, 27 },
-            { SPECIES_SPEAROW, 27, 27 },
-            { SPECIES_SPEAROW, 28, 28 },
-            { SPECIES_FEAROW, 29, 29 },
-            { SPECIES_FEAROW, 30, 30 },
-            { SPECIES_MURKROW, 27, 28 },
-            { SPECIES_MURKROW, 29, 30 },
-            { SPECIES_MURKROW, 31, 31 },
+            { SPECIES_HERACROSS, 28, 30 },
+            { SPECIES_HERACROSS, 32, 32 },
+            { SPECIES_HERACROSS, 30, 32 },
+            { SPECIES_SCYTHER, 29, 31 },
+            { SPECIES_SCYTHER, 29, 31 },
+            { SPECIES_MURKROW, 28, 29 },
+            { SPECIES_MURKROW, 30, 31 },
+            { SPECIES_MURKROW, 30, 31 },
         },
         .specialSlots =
         {
@@ -5486,18 +5486,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_NOCTOWL, 28, 28 },
-            { SPECIES_PINECO, 28, 28 },
-            { SPECIES_PINECO, 30, 30 },
-            { SPECIES_VENONAT, 27, 29 },
-            { SPECIES_VENONAT, 27, 29 },
-            { SPECIES_VENOMOTH, 30, 32 },
-            { SPECIES_NOCTOWL, 30, 30 },
-            { SPECIES_VENOMOTH, 33, 33 },
+            { SPECIES_ARBOK, 30, 30 },
             { SPECIES_NOCTOWL, 32, 32 },
-            { SPECIES_FORRETRESS, 31, 31 },
-            { SPECIES_FORRETRESS, 33, 33 },
-            { SPECIES_PINECO, 29, 29 },
+            { SPECIES_VENONAT, 31, 31 },
+            { SPECIES_VENONAT, 33, 33 },
+            { SPECIES_VENOMOTH, 34, 34 },
+            { SPECIES_VENOMOTH, 34, 34 },
+            { SPECIES_NOCTOWL, 32, 32 },
+            { SPECIES_VENOMOTH, 35, 35 },
+            { SPECIES_VENOMOTH, 34, 34 },
+            { SPECIES_ARIADOS, 31, 33 },
+            { SPECIES_ARIADOS, 31, 33 },
+            { SPECIES_ARIADOS, 35, 35 },
         },
         .specialSlots =
         {
@@ -5535,18 +5535,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_NOCTOWL, 38, 38 },
-            { SPECIES_SNEASEL, 35, 37 },
-            { SPECIES_SNEASEL, 35, 37 },
+            { SPECIES_PINECO, 38, 40 },
+            { SPECIES_MURKROW, 35, 37 },
+            { SPECIES_MURKROW, 35, 37 },
             { SPECIES_NOCTOWL, 39, 39 },
+            { SPECIES_SNEASEL, 37, 39 },
+            { SPECIES_SNEASEL, 37, 39 },
+            { SPECIES_PINECO, 38, 40 },
+            { SPECIES_MURKROW, 35, 37 },
+            { SPECIES_MURKROW, 35, 37 },
             { SPECIES_NOCTOWL, 39, 39 },
-            { SPECIES_NOCTOWL, 40, 40 },
-            { SPECIES_MURKROW, 37, 39 },
-            { SPECIES_MURKROW, 41, 41 },
-            { SPECIES_PINECO, 37, 38 },
-            { SPECIES_PINECO, 39, 40 },
-            { SPECIES_PINECO, 41, 42 },
-            { SPECIES_FORRETRESS, 43, 45 },
+            { SPECIES_SNEASEL, 37, 39 },
+            { SPECIES_SNEASEL, 37, 39 },
         },
         .specialSlots =
         {
@@ -6234,18 +6234,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_SPEAROW, 8, 10 },
-            { SPECIES_HERACROSS, 8, 10 },
-            { SPECIES_HERACROSS, 10, 12 },
-            { SPECIES_LEDYBA, 7, 9 },
-            { SPECIES_LEDYBA, 9, 11 },
-            { SPECIES_LEDYBA, 11, 13 },
-            { SPECIES_SPEAROW, 9, 11 },
             { SPECIES_SPEAROW, 10, 12 },
-            { SPECIES_SPEAROW, 11, 13 },
-            { SPECIES_HERACROSS, 12, 14 },
-            { SPECIES_LEDYBA, 13, 14 },
-            { SPECIES_MURKROW, 13, 14 },
+            { SPECIES_HERACROSS, 10, 10 },
+            { SPECIES_HERACROSS, 12, 12 },
+            { SPECIES_PINECO, 8, 8 },
+            { SPECIES_PINECO, 10, 10 },
+            { SPECIES_PINECO, 12, 12 },
+            { SPECIES_SPEAROW, 10, 12 },
+            { SPECIES_HERACROSS, 10, 10 },
+            { SPECIES_HERACROSS, 12, 12 },
+            { SPECIES_PINECO, 8, 8 },
+            { SPECIES_PINECO, 10, 10 },
+            { SPECIES_PINECO, 12, 12 },
         },
         .specialSlots =
         {
@@ -6528,18 +6528,18 @@ const HeadbuttArchiveData __data =
         .specialTreeCount = 0,
         .normalSlots =
         {
-            { SPECIES_EXEGGCUTE, 22, 22 },
-            { SPECIES_AIPOM, 22, 23 },
-            { SPECIES_AIPOM, 24, 25 },
-            { SPECIES_EXEGGCUTE, 23, 23 },
-            { SPECIES_EXEGGCUTE, 24, 24 },
-            { SPECIES_EXEGGCUTE, 25, 25 },
-            { SPECIES_YANMA, 26, 26 },
-            { SPECIES_YANMA, 27, 27 },
-            { SPECIES_EXEGGCUTE, 26, 26 },
-            { SPECIES_YANMA, 26, 26 },
-            { SPECIES_EXEGGCUTE, 25, 25 },
-            { SPECIES_EXEGGCUTE, 27, 27 },
+            { SPECIES_EXEGGCUTE, 23, 25 },
+            { SPECIES_NATU, 23, 23 },
+            { SPECIES_NATU, 25, 25 },
+            { SPECIES_EXEGGCUTE, 26, 27 },
+            { SPECIES_HERACROSS, 24, 26 },
+            { SPECIES_HERACROSS, 24, 26 },
+            { SPECIES_EXEGGCUTE, 23, 25 },
+            { SPECIES_NATU, 23, 23 },
+            { SPECIES_NATU, 25, 25 },
+            { SPECIES_EXEGGCUTE, 26, 27 },
+            { SPECIES_HERACROSS, 24, 26 },
+            { SPECIES_HERACROSS, 24, 26 },
         },
         .specialSlots =
         {
