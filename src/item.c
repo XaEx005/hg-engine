@@ -123,7 +123,7 @@ static const u16 sMachineMoves[] = {
     // expansion TMs
     MOVE_MEGA_PUNCH, // TM00
     MOVE_FLASH_CANNON, // TM093
-    MOVE_DARK_PULSE, // TM094
+    MOVE_DAZZLING_GLEAM, // TM094
     MOVE_LEECH_LIFE, // TM095
     MOVE_EERIE_IMPULSE, // TM096
     MOVE_FLY, // TM097

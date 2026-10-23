@@ -9524,7 +9524,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_ROCK_THROW"
+        "Move": "MOVE_SMACK_DOWN"
       },
       {
         "Level": 24,
@@ -9742,7 +9742,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_ROCK_THROW"
+        "Move": "MOVE_SMACK_DOWN"
       },
       {
         "Level": 24,
@@ -30157,15 +30157,15 @@
         "Move": "MOVE_STRING_SHOT"
       },
       {
-        "Level": 5,
+        "Level": 4,
         "Move": "MOVE_ABSORB"
       },
       {
-        "Level": 8,
+        "Level": 7,
         "Move": "MOVE_INFESTATION"
       },
       {
-        "Level": 12,
+        "Level": 11,
         "Move": "MOVE_SCARY_FACE"
       },
       {
@@ -30173,7 +30173,7 @@
         "Move": "MOVE_NIGHT_SHADE"
       },
       {
-        "Level": 19,
+        "Level": 18,
         "Move": "MOVE_SHADOW_SNEAK"
       },
       {
@@ -38579,7 +38579,7 @@
       },
       {
         "Level": 30,
-        "Move": "MOVE_ROCK_THROW"
+        "Move": "MOVE_SMACK_DOWN"
       },
       {
         "Level": 33,
@@ -161565,7 +161565,7 @@
       },
       {
         "Level": 20,
-        "Move": "MOVE_ROCK_THROW"
+        "Move": "MOVE_SMACK_DOWN"
       },
       {
         "Level": 24,
