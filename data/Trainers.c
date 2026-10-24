@@ -1342,7 +1342,7 @@ const TrainerData sTrainerData[] = {
             .trainerType = TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL,
             .trainerClass = TRAINERCLASS_LEADER_MORTY,
             .items = { ITEM_HYPER_POTION, ITEM_HYPER_POTION, ITEM_NONE, ITEM_NONE },
-            .aiFlags = F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS,
+            .aiFlags = F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | F_PRIORITIZE_STATUS_MOVES,
             .battleType = SINGLE_BATTLE,
         },
         .party = {
@@ -1352,7 +1352,7 @@ const TrainerData sTrainerData[] = {
                 .level = 26,
                 .species = SPECIES_DRIFLOON,
                 .item = ITEM_ORAN_BERRY,
-                .moves = { MOVE_DESTINY_BOND, MOVE_AIR_CUTTER, MOVE_THUNDERBOLT, MOVE_SHADOW_BALL },
+                .moves = { MOVE_DESTINY_BOND, MOVE_THUNDER_WAVE, MOVE_THUNDERBOLT, MOVE_HEX },
                 .ability = ABILITY_UNBURDEN,
                 .ball = ITEM_DUSK_BALL,
                 .ballSeal = 0,
@@ -1363,7 +1363,7 @@ const TrainerData sTrainerData[] = {
                 .level = 26,
                 .species = SPECIES_DUSCLOPS,
                 .item = ITEM_NONE,
-                .moves = { MOVE_WILL_O_WISP, MOVE_SHADOW_BALL, MOVE_PAYBACK, MOVE_THUNDER_PUNCH },
+                .moves = { MOVE_WILL_O_WISP, MOVE_HEX, MOVE_PAYBACK, MOVE_ICE_PUNCH },
                 .ability = ABILITY_PRESSURE,
                 .ball = ITEM_DUSK_BALL,
                 .ballSeal = 0,
@@ -1380,12 +1380,12 @@ const TrainerData sTrainerData[] = {
                 .ballSeal = 0,
             },
             {
-                .ivs = 80,
+                .ivs = 100,
                 .abilitySlot = 1,
                 .level = 28,
                 .species = SPECIES_GENGAR,
                 .item = ITEM_SITRUS_BERRY,
-                .moves = { MOVE_CONFUSE_RAY, MOVE_SHADOW_BALL, MOVE_CLEAR_SMOG, MOVE_SUCKER_PUNCH },
+                .moves = { MOVE_CONFUSE_RAY, MOVE_HEX, MOVE_CLEAR_SMOG, MOVE_DRAIN_PUNCH },
                 .ability = ABILITY_CURSED_BODY,
                 .ball = ITEM_DUSK_BALL,
                 .ballSeal = 0,
@@ -2098,21 +2098,21 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 24,
+                .level = 26,
                 .species = SPECIES_DELCATTY,
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 25,
+                .level = 27,
                 .species = SPECIES_CHANSEY,
                 .ballSeal = 0,
             },
             {
                 .ivs = 0,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 24,
+                .level = 26,
                 .species = SPECIES_HAPPINY,
                 .ballSeal = 0,
             },
@@ -7545,10 +7545,10 @@ const TrainerData sTrainerData[] = {
     },
 
     [179] = {
-        .name = "Kipp",
+        .name = "Kinan",
         .data = {
             .trainerType = TRAINER_DATA_TYPE_NOTHING,
-            .trainerClass = TRAINERCLASS_SCHOOL_KID_M,
+            .trainerClass = TRAINERCLASS_PKMN_RANGER_M,
             .items = { ITEM_NONE, ITEM_NONE, ITEM_NONE, ITEM_NONE },
             .aiFlags = F_PRIORITIZE_SUPER_EFFECTIVE,
             .battleType = SINGLE_BATTLE,
@@ -7571,7 +7571,7 @@ const TrainerData sTrainerData[] = {
             {
                 .ivs = 50,
                 .abilitySlot = TRAINER_POKEMON_ABILITY_1,
-                .level = 34,
+                .level = 35,
                 .species = SPECIES_GOLDUCK,
                 .ballSeal = 0,
             },
@@ -7579,15 +7579,15 @@ const TrainerData sTrainerData[] = {
         .text = {
             {
                 .type = TRMSG_INTRO,
-                .text = "Hang on. I have to phone my mom.\\r",
+                .text = "Hang on. I'm admiring nature...\\r",
             },
             {
                 .type = TRMSG_LOSE,
-                .text = "Sorry, Mom!\\nI was beaten!\\n",
+                .text = "Sorry, Mother Nature!\\nI was beaten!\\n",
             },
             {
                 .type = TRMSG_AFTER,
-                .text = "My mom worries so much about me, I have\\nto phone her all the time.\\n",
+                .text = "I worrie so much about nature, I have\\nto patrol here all the time.\\n",
             },
         },
     },

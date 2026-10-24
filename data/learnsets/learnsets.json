@@ -16356,6 +16356,7 @@
       "MOVE_ACID_SPRAY",
       "MOVE_ALLY_SWITCH",
       "MOVE_ATTRACT",
+      "MOVE_AURA_SPHERE",
       "MOVE_BIDE",
       "MOVE_BODY_SLAM",
       "MOVE_BRICK_BREAK",
