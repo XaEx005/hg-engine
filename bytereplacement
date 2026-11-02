@@ -411,11 +411,11 @@ arm9 0204B94C FC
 
 #ifdef EXPAND_MUSIC_TABLES
 # MainMusicComboTable combo range
-arm9 080517AA 31
-arm9 080517D4 31
+arm9 080517AA 2E
+arm9 080517D4 2E
 
 # TrainerClassToMusicCombo table range
-arm9 08051886 25
+arm9 08051886 21
 
 # PokemonBattleMusic table range
 arm9 080518CA 0B
@@ -449,9 +449,9 @@ arm9 020550E0 1C C6 0F 02
 #ifdef EXPAND_TRAINER_PRIZE_MONEY
 
 # PrizeMoney table range
-0012 0223FBD0 8F
-0012 0223FBD4 8F
-0012 0223FBDC 8F
+0012 0223FBD0 8B
+0012 0223FBD4 8B
+0012 0223FBDC 8B
 
 #else
 
