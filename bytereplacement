@@ -415,7 +415,7 @@ arm9 080517AA 31
 arm9 080517D4 31
 
 # TrainerClassToMusicCombo table range
-arm9 08051886 24
+arm9 08051886 25
 
 # PokemonBattleMusic table range
 arm9 080518CA 0B
