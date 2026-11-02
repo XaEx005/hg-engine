@@ -17186,19 +17186,19 @@ const TrainerData sTrainerData[] = {
         .text = {
             {
                 .type = TRMSG_INTRO,
-                .text = "Hey, are you good at Pokémon?\\rIf you’re really good, I want you to\\nteach me some things.\\r",
+                .text = "Hey, did you know that an\\nancient city once stood here?\\r",
             },
             {
                 .type = TRMSG_LOSE,
-                .text = "I see. So you can battle that way.\\n",
+                .text = "So you already knew that.\\n",
             },
             {
                 .type = TRMSG_AFTER,
-                .text = "I know something good!\\rMoomoo Farm’s milk is famous for\\nits taste.\\n",
+                .text = "I want to explore those ruins!\\n",
             },
             {
                 .type = TRMSG_PHONE_REMATCH_INTRO,
-                .text = "Oh, here you are again!\\nThere’s so many more things I want to\\flearn from you!\\r",
+                .text = "Oh, here you are again!\\nDid you explore the ancient city?\\r",
             },
         },
     },
